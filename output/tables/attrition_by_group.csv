@@ -1,0 +1,10 @@
+group,characteristic,n,pct_followed_up
+Low,Income,1095,56.3
+Middle,Income,1058,67.8
+High,Income,709,67.7
+White,Race,2082,65.6
+Black,Race,229,55.0
+Hispanic,Race,347,55.6
+Other,Race,204,62.7
+married,Marital status,2085,66.3
+"partnered, not married",Marital status,777,55.5
