@@ -7,3 +7,6 @@ __pycache__/
 .venv/
 data/raw/*.sav
 data/raw/*.dta
+
+# Exception: the HCMST 2017-2022 public file is small (4MB) and may be redistributed free of charge
+!data/raw/HCMST_2017_to_2022_small_public_version_2.2.dta

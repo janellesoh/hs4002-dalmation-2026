@@ -13,8 +13,20 @@ relationship stability vary across racial groups in the US?
 
 ## Getting the data
 
-1. Download the Stata (`.dta`) combined dataset from <https://data.stanford.edu/hcmst2017>.
-2. Put it in `data/raw/`. Raw data is not committed (see `.gitignore`).
+We use the HCMST 2017–2020–2022 combined dataset, public version 2.2 (Stata format),
+downloaded from <https://data.stanford.edu/hcmst2017> as
+`HCMST 2017 to 2022 small public version 2.2.dta` on 30 October 2026.
+
+The file is already in this repository as
+`data/raw/HCMST_2017_to_2022_small_public_version_2.2.dta` (4MB). Stanford's data use agreement
+allows sharing it free of charge, provided it is not used to identify individuals and is cited.
+If you download it yourself, rename it to that file name and place it in `data/raw/`.
+
+The codebook (v2.2) and user's guide (v2.3) are in `docs/`.
+
+**Citation:** Rosenfeld, Michael J., Reuben J. Thomas, and Sonia Hausen. 2023. How Couples Meet and
+Stay Together 2017-2020-2022 combined dataset. [Computer files]. Stanford, CA: Stanford University
+Libraries. https://data.stanford.edu/hcmst2017
 
 ## Run order
 
@@ -28,7 +40,10 @@ Work in progress. Notebooks will run in this order:
 ## Folders
 
 - `code/`: notebooks
-- `data/raw/`: raw data (not committed)
+- `data/raw/`: the data as downloaded, never edited by hand
 - `data/processed/`: cleaned data produced by the notebooks
+- `docs/`: codebook and user's guide
 - `output/tables/`, `output/figures/`: results
+- `slides/`: presentation slides (`presentation1.pdf` = Presentation #1, 7 Oct 2026; its results
+  come from HCMST 2009, see `archive/hcmst2009/`)
 - `archive/hcmst2009/`: earlier analysis on HCMST 2009
