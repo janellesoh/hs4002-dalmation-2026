@@ -1,0 +1,42 @@
+term,model,coef,odds_ratio,p_value,ci_lower,ci_upper
+Intercept,Model 1,-0.398,0.672,0.109,-0.885,0.089
+C(period)[T.2017-2022],Model 1,0.507,1.66,0.176,-0.228,1.242
+C(period)[T.2020-2022],Model 1,-1.65,0.192,0.0,-2.166,-1.134
+income_ordinal,Model 1,-0.137,0.872,0.0,-0.175,-0.1
+Intercept,Model 2,0.268,1.308,0.525,-0.558,1.095
+C(period)[T.2017-2022],Model 2,0.496,1.643,0.213,-0.285,1.278
+C(period)[T.2020-2022],Model 2,-1.472,0.23,0.0,-2.008,-0.935
+income_ordinal,Model 2,-0.069,0.933,0.001,-0.11,-0.028
+black,Model 2,1.166,3.209,0.0,0.585,1.747
+hispanic,Model 2,0.671,1.957,0.033,0.055,1.287
+married,Model 2,-1.355,0.258,0.0,-1.8,-0.909
+duration,Model 2,-0.072,0.93,0.0,-0.097,-0.047
+age,Model 2,0.003,1.003,0.662,-0.012,0.019
+same_sex,Model 2,0.287,1.333,0.299,-0.255,0.83
+children,Model 2,0.133,1.143,0.553,-0.307,0.574
+Intercept,Model 3,0.29,1.337,0.505,-0.564,1.144
+C(period)[T.2017-2022],Model 3,0.495,1.641,0.209,-0.277,1.268
+C(period)[T.2020-2022],Model 3,-1.466,0.231,0.0,-2.002,-0.931
+income_ordinal,Model 3,-0.073,0.929,0.002,-0.119,-0.027
+black,Model 3,1.692,5.429,0.108,-0.373,3.756
+income_ordinal:black,Model 3,-0.045,0.956,0.596,-0.212,0.122
+hispanic,Model 3,-0.093,0.911,0.897,-1.493,1.307
+income_ordinal:hispanic,Model 3,0.068,1.071,0.272,-0.053,0.19
+married,Model 3,-1.351,0.259,0.0,-1.801,-0.901
+duration,Model 3,-0.072,0.93,0.0,-0.098,-0.047
+age,Model 3,0.004,1.004,0.623,-0.012,0.019
+same_sex,Model 3,0.332,1.393,0.236,-0.216,0.88
+children,Model 3,0.154,1.166,0.497,-0.29,0.597
+Intercept,Model 4,0.201,1.223,0.675,-0.739,1.141
+"C(earned_more, Treatment('About equal'))[T.Partner earned more]",Model 4,0.078,1.082,0.8,-0.53,0.687
+"C(earned_more, Treatment('About equal'))[T.Respondent earned more]",Model 4,0.03,1.031,0.923,-0.581,0.641
+C(period)[T.2017-2022],Model 4,0.502,1.651,0.205,-0.274,1.277
+C(period)[T.2020-2022],Model 4,-1.46,0.232,0.0,-1.996,-0.924
+income_ordinal,Model 4,-0.068,0.934,0.001,-0.109,-0.027
+black,Model 4,1.165,3.205,0.0,0.586,1.744
+hispanic,Model 4,0.646,1.907,0.049,0.004,1.288
+married,Model 4,-1.355,0.258,0.0,-1.803,-0.907
+duration,Model 4,-0.072,0.931,0.0,-0.097,-0.046
+age,Model 4,0.003,1.003,0.663,-0.012,0.019
+same_sex,Model 4,0.277,1.319,0.324,-0.274,0.828
+children,Model 4,0.141,1.152,0.53,-0.299,0.581
