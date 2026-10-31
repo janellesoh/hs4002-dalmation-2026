@@ -1,0 +1,2863 @@
+caseid_new,status_2020,status_2022,broke_up,partner_died,followed_up,in_sample
+53001,Broke up,Together,1,False,True,True
+71609,Together,Together,0,False,True,True
+106983,Together,Together,0,False,True,True
+121759,Together,Not surveyed,0,False,True,True
+164061,Together,Together,0,False,True,True
+212249,Together,Together,0,False,True,True
+214227,Together,Together,0,False,True,True
+218351,Together,Together,0,False,True,True
+220655,Together,Together,0,False,True,True
+291177,Together,Together,0,False,True,True
+328443,Not surveyed,Not surveyed,0,False,False,False
+369975,Together,Together,0,False,True,True
+428211,Together,Together,0,False,True,True
+497203,Together,Together,0,False,True,True
+498705,Not surveyed,Not surveyed,0,False,False,False
+507747,Together,Not surveyed,0,False,True,True
+516823,Together,Together,0,False,True,True
+519265,Not surveyed,Not surveyed,0,False,False,False
+582849,Together,Together,0,False,True,True
+585169,Partner died,Together,0,True,True,False
+587121,Partner died,Together,0,True,True,False
+587125,Together,Together,0,False,True,True
+589881,Together,Together,0,False,True,True
+606657,Together,Broke up,1,False,True,True
+606929,Not surveyed,Not surveyed,0,False,False,False
+608697,Together,Together,0,False,True,True
+616029,Not surveyed,Together,0,False,True,True
+616985,Together,Not surveyed,0,False,True,True
+621425,Not surveyed,Not surveyed,0,False,False,False
+621641,Together,Together,0,False,True,True
+623465,Not surveyed,Together,0,False,True,True
+623813,Not surveyed,Not surveyed,0,False,False,False
+626591,Together,Not surveyed,0,False,True,True
+627633,Not surveyed,Not surveyed,0,False,False,False
+629075,Not surveyed,Not surveyed,0,False,False,False
+632159,Broke up,Together,1,False,True,True
+632253,Together,Together,0,False,True,True
+634833,Together,Together,0,False,True,True
+637531,Together,Together,0,False,True,True
+643423,Together,Together,0,False,True,True
+643505,Together,Together,0,False,True,True
+646023,Together,Together,0,False,True,True
+646157,Together,Together,0,False,True,True
+648619,Together,Broke up,1,False,True,True
+648669,Together,Together,0,False,True,True
+650237,Together,Together,0,False,True,True
+651259,Together,Together,0,False,True,True
+651349,Together,Together,0,False,True,True
+653633,Together,Together,0,False,True,True
+654043,Together,Not surveyed,0,False,True,True
+654589,Together,Together,0,False,True,True
+654967,Broke up,Not surveyed,1,False,True,True
+657869,Together,Together,0,False,True,True
+659217,Together,Not surveyed,0,False,True,True
+659879,Not surveyed,Not surveyed,0,False,False,False
+662355,Together,Together,0,False,True,True
+692169,Not surveyed,Together,0,False,True,True
+694725,Partner died,Together,0,True,True,False
+694739,Together,Together,0,False,True,True
+697337,Not surveyed,Not surveyed,0,False,False,False
+698117,Together,Together,0,False,True,True
+703017,Together,Together,0,False,True,True
+704661,Together,Together,0,False,True,True
+704807,Partner died,Together,0,True,True,False
+705457,Together,Together,0,False,True,True
+707695,Not surveyed,Not surveyed,0,False,False,False
+709075,Together,Together,0,False,True,True
+709173,Together,Together,0,False,True,True
+713873,Not surveyed,Not surveyed,0,False,False,False
+716613,Not surveyed,Not surveyed,0,False,False,False
+716931,Together,Not surveyed,0,False,True,True
+718501,Not surveyed,Not surveyed,0,False,False,False
+720815,Together,Not surveyed,0,False,True,True
+723769,Not surveyed,Not surveyed,0,False,False,False
+724199,Together,Together,0,False,True,True
+726183,Together,Together,0,False,True,True
+726431,Together,Together,0,False,True,True
+727775,Together,Together,0,False,True,True
+728327,Together,Together,0,False,True,True
+729319,Together,Together,0,False,True,True
+729451,Not surveyed,Not surveyed,0,False,False,False
+730375,Together,Not surveyed,0,False,True,True
+730391,Together,Together,0,False,True,True
+731249,Together,Together,0,False,True,True
+731629,Together,Together,0,False,True,True
+734689,Together,Together,0,False,True,True
+736409,Broke up,Together,1,False,True,True
+738313,Not surveyed,Not surveyed,0,False,False,False
+742989,Not surveyed,Not surveyed,0,False,False,False
+744235,Together,Not surveyed,0,False,True,True
+744997,Not surveyed,Not surveyed,0,False,False,False
+750887,Together,Not surveyed,0,False,True,True
+755761,Together,Together,0,False,True,True
+758697,Not surveyed,Not surveyed,0,False,False,False
+760105,Together,Not surveyed,0,False,True,True
+765797,Together,Partner died,0,True,True,False
+769207,Together,Together,0,False,True,True
+771859,Not surveyed,Not surveyed,0,False,False,False
+774843,Together,Together,0,False,True,True
+775045,Together,Together,0,False,True,True
+779707,Broke up,Together,1,False,True,True
+782115,Partner died,Together,0,True,True,False
+782789,Together,Together,0,False,True,True
+783399,Together,Together,0,False,True,True
+783679,Together,Together,0,False,True,True
+784141,Together,Together,0,False,True,True
+784503,Not surveyed,Not surveyed,0,False,False,False
+785119,Not surveyed,Not surveyed,0,False,False,False
+792153,Together,Together,0,False,True,True
+793447,Not surveyed,Not surveyed,0,False,False,False
+796531,Partner died,Together,0,True,True,False
+799617,Together,Not surveyed,0,False,True,True
+799683,Together,Together,0,False,True,True
+806423,Together,Together,0,False,True,True
+808133,Together,Not surveyed,0,False,True,True
+810569,Together,Together,0,False,True,True
+811175,Together,Together,0,False,True,True
+811943,Together,Not surveyed,0,False,True,True
+812199,Not surveyed,Not surveyed,0,False,False,False
+812769,Together,Together,0,False,True,True
+813467,Together,Together,0,False,True,True
+814003,Not surveyed,Not surveyed,0,False,False,False
+814285,Together,Together,0,False,True,True
+815831,Together,Together,0,False,True,True
+816853,Together,Partner died,0,True,True,False
+817367,Together,Together,0,False,True,True
+821909,Together,Together,0,False,True,True
+822315,Together,Together,0,False,True,True
+823005,Not surveyed,Not surveyed,0,False,False,False
+823031,Together,Partner died,0,True,True,False
+828033,Not surveyed,Not surveyed,0,False,False,False
+837121,Not surveyed,Not surveyed,0,False,False,False
+838597,Together,Not surveyed,0,False,True,True
+842437,Together,Together,0,False,True,True
+842845,Not surveyed,Not surveyed,0,False,False,False
+844189,Together,Together,0,False,True,True
+844865,Together,Together,0,False,True,True
+845161,Not surveyed,Not surveyed,0,False,False,False
+846777,Not surveyed,Not surveyed,0,False,False,False
+846827,Together,Together,0,False,True,True
+847729,Together,Not surveyed,0,False,True,True
+853221,Not surveyed,Together,0,False,True,True
+853511,Broke up,Not surveyed,1,False,True,True
+854869,Together,Together,0,False,True,True
+855297,Together,Together,0,False,True,True
+855367,Together,Not surveyed,0,False,True,True
+855631,Not surveyed,Not surveyed,0,False,False,False
+859445,Together,Together,0,False,True,True
+860465,Not surveyed,Partner died,0,True,True,False
+861113,Together,Together,0,False,True,True
+862185,Not surveyed,Broke up,1,False,True,True
+867449,Together,Together,0,False,True,True
+867567,Together,Together,0,False,True,True
+868743,Together,Not surveyed,0,False,True,True
+869205,Not surveyed,Not surveyed,0,False,False,False
+870777,Not surveyed,Together,0,False,True,True
+873917,Broke up,Together,1,False,True,True
+874193,Together,Together,0,False,True,True
+876181,Together,Together,0,False,True,True
+882659,Not surveyed,Not surveyed,0,False,False,False
+882717,Together,Together,0,False,True,True
+882735,Together,Not surveyed,0,False,True,True
+888165,Partner died,Not surveyed,0,True,True,False
+892115,Together,Together,0,False,True,True
+894473,Together,Together,0,False,True,True
+895019,Not surveyed,Not surveyed,0,False,False,False
+900463,Together,Together,0,False,True,True
+900883,Not surveyed,Not surveyed,0,False,False,False
+903051,Together,Broke up,1,False,True,True
+903877,Not surveyed,Not surveyed,0,False,False,False
+905009,Not surveyed,Not surveyed,0,False,False,False
+908663,Together,Together,0,False,True,True
+912559,Together,Not surveyed,0,False,True,True
+916551,Together,Together,0,False,True,True
+924575,Together,Together,0,False,True,True
+933409,Together,Not surveyed,0,False,True,True
+948417,Together,Together,0,False,True,True
+957155,Together,Together,0,False,True,True
+958953,Not surveyed,Not surveyed,0,False,False,False
+959621,Together,Together,0,False,True,True
+960583,Not surveyed,Not surveyed,0,False,False,False
+962359,Together,Together,0,False,True,True
+964713,Together,Together,0,False,True,True
+965707,Not surveyed,Not surveyed,0,False,False,False
+968469,Not surveyed,Not surveyed,0,False,False,False
+978397,Not surveyed,Partner died,0,True,True,False
+981251,Together,Together,0,False,True,True
+981685,Together,Together,0,False,True,True
+982323,Together,Together,0,False,True,True
+983511,Together,Together,0,False,True,True
+985963,Together,Together,0,False,True,True
+989811,Together,Not surveyed,0,False,True,True
+999245,Not surveyed,Broke up,1,False,True,True
+999415,Together,Together,0,False,True,True
+1000121,Not surveyed,Partner died,0,True,True,False
+1000407,Together,Together,0,False,True,True
+1001637,Together,Together,0,False,True,True
+1001903,Not surveyed,Broke up,1,False,True,True
+1002587,Together,Together,0,False,True,True
+1004329,Together,Together,0,False,True,True
+1011851,Together,Together,0,False,True,True
+1016635,Together,Not surveyed,0,False,True,True
+1017969,Broke up,Not surveyed,1,False,True,True
+1018305,Not surveyed,Not surveyed,0,False,False,False
+1021941,Together,Not surveyed,0,False,True,True
+1025093,Not surveyed,Not surveyed,0,False,False,False
+1026725,Broke up,Together,1,False,True,True
+1033007,Together,Together,0,False,True,True
+1037231,Together,Not surveyed,0,False,True,True
+1049013,Together,Together,0,False,True,True
+1053135,Not surveyed,Together,0,False,True,True
+1053391,Together,Not surveyed,0,False,True,True
+1054963,Together,Not surveyed,0,False,True,True
+1058659,Together,Not surveyed,0,False,True,True
+1059357,Together,Together,0,False,True,True
+1068457,Not surveyed,Not surveyed,0,False,False,False
+1070983,Together,Together,0,False,True,True
+1073943,Together,Together,0,False,True,True
+1074213,Not surveyed,Not surveyed,0,False,False,False
+1077183,Not surveyed,Not surveyed,0,False,False,False
+1077443,Together,Together,0,False,True,True
+1080635,Together,Together,0,False,True,True
+1084835,Not surveyed,Not surveyed,0,False,False,False
+1088237,Together,Together,0,False,True,True
+1095985,Together,Not surveyed,0,False,True,True
+1097625,Together,Together,0,False,True,True
+1100227,Together,Together,0,False,True,True
+1101051,Together,Together,0,False,True,True
+1101235,Together,Not surveyed,0,False,True,True
+1105539,Together,Together,0,False,True,True
+1107549,Not surveyed,Together,0,False,True,True
+1107709,Together,Together,0,False,True,True
+1113635,Together,Not surveyed,0,False,True,True
+1115473,Together,Together,0,False,True,True
+1116971,Together,Together,0,False,True,True
+1118057,Not surveyed,Not surveyed,0,False,False,False
+1119259,Together,Together,0,False,True,True
+1122491,Together,Not surveyed,0,False,True,True
+1123417,Together,Together,0,False,True,True
+1126257,Together,Together,0,False,True,True
+1127787,Together,Together,0,False,True,True
+1129773,Not surveyed,Not surveyed,0,False,False,False
+1129859,Together,Together,0,False,True,True
+1130085,Together,Not surveyed,0,False,True,True
+1130879,Together,Together,0,False,True,True
+1131259,Together,Not surveyed,0,False,True,True
+1131509,Not surveyed,Not surveyed,0,False,False,False
+1139579,Not surveyed,Not surveyed,0,False,False,False
+1140491,Together,Together,0,False,True,True
+1141793,Together,Together,0,False,True,True
+1144973,Not surveyed,Not surveyed,0,False,False,False
+1145895,Together,Together,0,False,True,True
+1149617,Together,Not surveyed,0,False,True,True
+1150579,Together,Together,0,False,True,True
+1150713,Together,Together,0,False,True,True
+1151149,Together,Together,0,False,True,True
+1152229,Together,Together,0,False,True,True
+1153863,Together,Partner died,0,True,True,False
+1154739,Not surveyed,Not surveyed,0,False,False,False
+1156201,Together,Not surveyed,0,False,True,True
+1156893,Together,Together,0,False,True,True
+1157187,Together,Together,0,False,True,True
+1158149,Together,Not surveyed,0,False,True,True
+1158663,Not surveyed,Not surveyed,0,False,False,False
+1161211,Together,Together,0,False,True,True
+1162743,Together,Partner died,0,True,True,False
+1163737,Together,Together,0,False,True,True
+1166225,Together,Not surveyed,0,False,True,True
+1167085,Together,Together,0,False,True,True
+1168011,Together,Together,0,False,True,True
+1170887,Together,Together,0,False,True,True
+1171617,Not surveyed,Not surveyed,0,False,False,False
+1172171,Together,Together,0,False,True,True
+1172767,Broke up,Together,1,False,True,True
+1177155,Together,Together,0,False,True,True
+1179591,Together,Together,0,False,True,True
+1181125,Together,Together,0,False,True,True
+1181275,Together,Together,0,False,True,True
+1181279,Together,Together,0,False,True,True
+1181693,Not surveyed,Not surveyed,0,False,False,False
+1182387,Together,Together,0,False,True,True
+1183381,Together,Together,0,False,True,True
+1185205,Together,Not surveyed,0,False,True,True
+1189499,Not surveyed,Not surveyed,0,False,False,False
+1192631,Not surveyed,Not surveyed,0,False,False,False
+1193135,Together,Together,0,False,True,True
+1193613,Together,Together,0,False,True,True
+1195679,Not surveyed,Not surveyed,0,False,False,False
+1196757,Together,Together,0,False,True,True
+1198519,Not surveyed,Not surveyed,0,False,False,False
+1201255,Together,Not surveyed,0,False,True,True
+1202157,Together,Not surveyed,0,False,True,True
+1202421,Together,Not surveyed,0,False,True,True
+1203831,Together,Together,0,False,True,True
+1211463,Not surveyed,Not surveyed,0,False,False,False
+1213599,Not surveyed,Not surveyed,0,False,False,False
+1214063,Together,Together,0,False,True,True
+1218419,Broke up,Not surveyed,1,False,True,True
+1218979,Together,Together,0,False,True,True
+1221467,Together,Together,0,False,True,True
+1222679,Together,Together,0,False,True,True
+1223495,Together,Together,0,False,True,True
+1224777,Together,Together,0,False,True,True
+1225799,Together,Together,0,False,True,True
+1226941,Together,Together,0,False,True,True
+1227597,Together,Not surveyed,0,False,True,True
+1228389,Together,Broke up,1,False,True,True
+1230191,Together,Together,0,False,True,True
+1230459,Together,Together,0,False,True,True
+1232053,Not surveyed,Not surveyed,0,False,False,False
+1234029,Together,Together,0,False,True,True
+1234663,Together,Together,0,False,True,True
+1235265,Broke up,Together,1,False,True,True
+1236545,Together,Together,0,False,True,True
+1238075,Together,Together,0,False,True,True
+1239479,Together,Together,0,False,True,True
+1242503,Broke up,Together,1,False,True,True
+1243163,Together,Together,0,False,True,True
+1244419,Together,Not surveyed,0,False,True,True
+1244455,Together,Together,0,False,True,True
+1246677,Together,Together,0,False,True,True
+1246869,Together,Together,0,False,True,True
+1248835,Not surveyed,Together,0,False,True,True
+1250651,Together,Together,0,False,True,True
+1251293,Together,Together,0,False,True,True
+1252771,Not surveyed,Together,0,False,True,True
+1253615,Together,Together,0,False,True,True
+1256141,Together,Together,0,False,True,True
+1256265,Not surveyed,Not surveyed,0,False,False,False
+1256597,Not surveyed,Not surveyed,0,False,False,False
+1258803,Together,Together,0,False,True,True
+1260711,Together,Not surveyed,0,False,True,True
+1261481,Together,Not surveyed,0,False,True,True
+1262965,Together,Together,0,False,True,True
+1266477,Not surveyed,Not surveyed,0,False,False,False
+1267611,Together,Together,0,False,True,True
+1269605,Together,Together,0,False,True,True
+1271099,Not surveyed,Partner died,0,True,True,False
+1271293,Together,Together,0,False,True,True
+1272267,Together,Not surveyed,0,False,True,True
+1272909,Together,Together,0,False,True,True
+1273539,Broke up,Not surveyed,1,False,True,True
+1276051,Together,Together,0,False,True,True
+1276181,Together,Together,0,False,True,True
+1279337,Partner died,Together,0,True,True,False
+1279425,Broke up,Together,1,False,True,True
+1282581,Together,Together,0,False,True,True
+1283019,Together,Together,0,False,True,True
+1284217,Together,Together,0,False,True,True
+1287847,Together,Together,0,False,True,True
+1300381,Together,Together,0,False,True,True
+1300409,Together,Together,0,False,True,True
+1301087,Together,Together,0,False,True,True
+1301519,Broke up,Together,1,False,True,True
+1301695,Together,Not surveyed,0,False,True,True
+1301941,Not surveyed,Not surveyed,0,False,False,False
+1311313,Together,Together,0,False,True,True
+1316837,Together,Broke up,1,False,True,True
+1317319,Not surveyed,Not surveyed,0,False,False,False
+1318305,Together,Together,0,False,True,True
+1320887,Not surveyed,Not surveyed,0,False,False,False
+1322545,Together,Not surveyed,0,False,True,True
+1323365,Together,Together,0,False,True,True
+1324877,Together,Not surveyed,0,False,True,True
+1325417,Together,Together,0,False,True,True
+1329491,Together,Partner died,0,True,True,False
+1333997,Together,Together,0,False,True,True
+1335167,Together,Together,0,False,True,True
+1335659,Not surveyed,Not surveyed,0,False,False,False
+1336419,Not surveyed,Not surveyed,0,False,False,False
+1336987,Together,Together,0,False,True,True
+1338065,Together,Together,0,False,True,True
+1341047,Together,Not surveyed,0,False,True,True
+1341579,Not surveyed,Not surveyed,0,False,False,False
+1341813,Together,Not surveyed,0,False,True,True
+1342665,Broke up,Together,1,False,True,True
+1344091,Together,Together,0,False,True,True
+1348777,Together,Together,0,False,True,True
+1348915,Together,Together,0,False,True,True
+1349167,Together,Together,0,False,True,True
+1349877,Together,Together,0,False,True,True
+1351781,Together,Not surveyed,0,False,True,True
+1352173,Not surveyed,Not surveyed,0,False,False,False
+1352199,Together,Together,0,False,True,True
+1352649,Not surveyed,Not surveyed,0,False,False,False
+1356825,Not surveyed,Not surveyed,0,False,False,False
+1359303,Broke up,Together,1,False,True,True
+1359305,Not surveyed,Not surveyed,0,False,False,False
+1364259,Together,Not surveyed,0,False,True,True
+1367925,Not surveyed,Not surveyed,0,False,False,False
+1369819,Not surveyed,Not surveyed,0,False,False,False
+1371445,Together,Together,0,False,True,True
+1372241,Broke up,Together,1,False,True,True
+1372419,Together,Together,0,False,True,True
+1372493,Not surveyed,Not surveyed,0,False,False,False
+1372507,Together,Together,0,False,True,True
+1372513,Not surveyed,Not surveyed,0,False,False,False
+1372653,Not surveyed,Not surveyed,0,False,False,False
+1373785,Together,Together,0,False,True,True
+1374091,Together,Together,0,False,True,True
+1374661,Together,Together,0,False,True,True
+1374845,Together,Together,0,False,True,True
+1374925,Together,Together,0,False,True,True
+1376491,Together,Together,0,False,True,True
+1377765,Together,Together,0,False,True,True
+1378293,Together,Together,0,False,True,True
+1382361,Together,Together,0,False,True,True
+1385783,Together,Together,0,False,True,True
+1385831,Together,Together,0,False,True,True
+1386071,Together,Partner died,0,True,True,False
+1386459,Not surveyed,Not surveyed,0,False,False,False
+1388897,Not surveyed,Not surveyed,0,False,False,False
+1389041,Not surveyed,Together,0,False,True,True
+1389231,Together,Not surveyed,0,False,True,True
+1389569,Not surveyed,Not surveyed,0,False,False,False
+1390783,Partner died,Together,0,True,True,False
+1392503,Not surveyed,Not surveyed,0,False,False,False
+1393841,Not surveyed,Together,0,False,True,True
+1394211,Together,Together,0,False,True,True
+1397327,Not surveyed,Not surveyed,0,False,False,False
+1404197,Not surveyed,Not surveyed,0,False,False,False
+1404367,Together,Not surveyed,0,False,True,True
+1407429,Together,Together,0,False,True,True
+1409151,Together,Together,0,False,True,True
+1411245,Together,Together,0,False,True,True
+1415513,Together,Not surveyed,0,False,True,True
+1418329,Together,Together,0,False,True,True
+1418687,Together,Not surveyed,0,False,True,True
+1420887,Together,Together,0,False,True,True
+1421327,Together,Not surveyed,0,False,True,True
+1421987,Together,Together,0,False,True,True
+1422621,Together,Not surveyed,0,False,True,True
+1422915,Together,Together,0,False,True,True
+1423457,Together,Together,0,False,True,True
+1424549,Together,Not surveyed,0,False,True,True
+1425299,Together,Together,0,False,True,True
+1425571,Together,Together,0,False,True,True
+1428551,Not surveyed,Not surveyed,0,False,False,False
+1430863,Together,Together,0,False,True,True
+1431015,Not surveyed,Not surveyed,0,False,False,False
+1433383,Together,Together,0,False,True,True
+1433943,Not surveyed,Not surveyed,0,False,False,False
+1435195,Together,Together,0,False,True,True
+1437339,Together,Together,0,False,True,True
+1437691,Together,Together,0,False,True,True
+1439067,Together,Together,0,False,True,True
+1439843,Not surveyed,Not surveyed,0,False,False,False
+1439945,Together,Together,0,False,True,True
+1441973,Together,Together,0,False,True,True
+1445329,Together,Not surveyed,0,False,True,True
+1445543,Together,Together,0,False,True,True
+1445757,Together,Together,0,False,True,True
+1449039,Together,Together,0,False,True,True
+1450571,Not surveyed,Not surveyed,0,False,False,False
+1462833,Broke up,Not surveyed,1,False,True,True
+1464617,Not surveyed,Not surveyed,0,False,False,False
+1465133,Together,Together,0,False,True,True
+1465893,Not surveyed,Not surveyed,0,False,False,False
+1466315,Together,Together,0,False,True,True
+1468009,Together,Not surveyed,0,False,True,True
+1469067,Broke up,Together,1,False,True,True
+1469823,Not surveyed,Not surveyed,0,False,False,False
+1473855,Together,Together,0,False,True,True
+1476079,Not surveyed,Not surveyed,0,False,False,False
+1478863,Together,Together,0,False,True,True
+1483013,Together,Together,0,False,True,True
+1485773,Together,Not surveyed,0,False,True,True
+1490477,Together,Together,0,False,True,True
+1491213,Together,Not surveyed,0,False,True,True
+1492417,Together,Together,0,False,True,True
+1495089,Not surveyed,Together,0,False,True,True
+1503743,Not surveyed,Not surveyed,0,False,False,False
+1505847,Together,Together,0,False,True,True
+1508733,Together,Together,0,False,True,True
+1513043,Together,Together,0,False,True,True
+1513047,Together,Together,0,False,True,True
+1513715,Partner died,Together,0,True,True,False
+1518259,Together,Together,0,False,True,True
+1519185,Together,Together,0,False,True,True
+1520483,Not surveyed,Not surveyed,0,False,False,False
+1521705,Not surveyed,Together,0,False,True,True
+1524367,Together,Together,0,False,True,True
+1526849,Together,Not surveyed,0,False,True,True
+1527623,Together,Together,0,False,True,True
+1527779,Together,Not surveyed,0,False,True,True
+1532255,Together,Together,0,False,True,True
+1535219,Together,Not surveyed,0,False,True,True
+1536983,Together,Together,0,False,True,True
+1539059,Broke up,Together,1,False,True,True
+1543771,Not surveyed,Not surveyed,0,False,False,False
+1546115,Not surveyed,Not surveyed,0,False,False,False
+1547341,Together,Not surveyed,0,False,True,True
+1547885,Together,Not surveyed,0,False,True,True
+1548291,Together,Together,0,False,True,True
+1548633,Not surveyed,Not surveyed,0,False,False,False
+1550311,Together,Together,0,False,True,True
+1550999,Together,Together,0,False,True,True
+1551703,Together,Together,0,False,True,True
+1552387,Together,Together,0,False,True,True
+1556445,Not surveyed,Together,0,False,True,True
+1558639,Together,Broke up,1,False,True,True
+1564123,Not surveyed,Not surveyed,0,False,False,False
+1566415,Not surveyed,Not surveyed,0,False,False,False
+1568833,Together,Together,0,False,True,True
+1570485,Together,Together,0,False,True,True
+1570547,Together,Together,0,False,True,True
+1571537,Together,Together,0,False,True,True
+1572635,Together,Together,0,False,True,True
+1572839,Together,Together,0,False,True,True
+1573497,Together,Not surveyed,0,False,True,True
+1575841,Together,Together,0,False,True,True
+1576593,Partner died,Together,0,True,True,False
+1577219,Not surveyed,Together,0,False,True,True
+1577393,Together,Not surveyed,0,False,True,True
+1578877,Not surveyed,Not surveyed,0,False,False,False
+1586841,Together,Not surveyed,0,False,True,True
+1587197,Together,Together,0,False,True,True
+1587583,Together,Together,0,False,True,True
+1589831,Together,Partner died,0,True,True,False
+1591799,Not surveyed,Not surveyed,0,False,False,False
+1592665,Not surveyed,Not surveyed,0,False,False,False
+1593839,Together,Together,0,False,True,True
+1594259,Not surveyed,Together,0,False,True,True
+1594815,Broke up,Together,1,False,True,True
+1596895,Together,Together,0,False,True,True
+1597821,Together,Together,0,False,True,True
+1602221,Not surveyed,Not surveyed,0,False,False,False
+1604059,Together,Together,0,False,True,True
+1604541,Together,Together,0,False,True,True
+1606011,Partner died,Not surveyed,0,True,True,False
+1606813,Together,Not surveyed,0,False,True,True
+1607815,Together,Together,0,False,True,True
+1609449,Not surveyed,Not surveyed,0,False,False,False
+1612001,Together,Together,0,False,True,True
+1615115,Together,Not surveyed,0,False,True,True
+1619243,Not surveyed,Not surveyed,0,False,False,False
+1621115,Together,Together,0,False,True,True
+1624697,Not surveyed,Not surveyed,0,False,False,False
+1626763,Together,Together,0,False,True,True
+1627633,Not surveyed,Together,0,False,True,True
+1630669,Together,Together,0,False,True,True
+1631303,Together,Together,0,False,True,True
+1631841,Together,Together,0,False,True,True
+1633263,Together,Together,0,False,True,True
+1633889,Not surveyed,Not surveyed,0,False,False,False
+1634959,Together,Together,0,False,True,True
+1635641,Together,Together,0,False,True,True
+1636591,Together,Not surveyed,0,False,True,True
+1638359,Together,Together,0,False,True,True
+1638493,Not surveyed,Not surveyed,0,False,False,False
+1638555,Not surveyed,Not surveyed,0,False,False,False
+1638615,Together,Together,0,False,True,True
+1640011,Together,Not surveyed,0,False,True,True
+1641411,Not surveyed,Not surveyed,0,False,False,False
+1644835,Together,Together,0,False,True,True
+1645953,Together,Together,0,False,True,True
+1647053,Not surveyed,Not surveyed,0,False,False,False
+1647925,Not surveyed,Not surveyed,0,False,False,False
+1648699,Together,Together,0,False,True,True
+1649347,Together,Not surveyed,0,False,True,True
+1656923,Together,Not surveyed,0,False,True,True
+1656987,Together,Together,0,False,True,True
+1658485,Together,Together,0,False,True,True
+1660265,Together,Together,0,False,True,True
+1664063,Together,Not surveyed,0,False,True,True
+1664103,Not surveyed,Together,0,False,True,True
+1665693,Together,Together,0,False,True,True
+1668481,Not surveyed,Not surveyed,0,False,False,False
+1669761,Together,Not surveyed,0,False,True,True
+1670165,Together,Not surveyed,0,False,True,True
+1672091,Together,Not surveyed,0,False,True,True
+1673269,Together,Together,0,False,True,True
+1675777,Not surveyed,Not surveyed,0,False,False,False
+1677291,Together,Together,0,False,True,True
+1678169,Not surveyed,Not surveyed,0,False,False,False
+1678835,Together,Together,0,False,True,True
+1679339,Together,Together,0,False,True,True
+1681863,Not surveyed,Together,0,False,True,True
+1681929,Together,Not surveyed,0,False,True,True
+1682355,Together,Together,0,False,True,True
+1682591,Together,Together,0,False,True,True
+1684311,Not surveyed,Not surveyed,0,False,False,False
+1686433,Not surveyed,Not surveyed,0,False,False,False
+1688409,Together,Together,0,False,True,True
+1689267,Together,Together,0,False,True,True
+1690321,Together,Not surveyed,0,False,True,True
+1691673,Together,Together,0,False,True,True
+1692049,Together,Together,0,False,True,True
+1692681,Together,Together,0,False,True,True
+1692763,Together,Together,0,False,True,True
+1693339,Not surveyed,Not surveyed,0,False,False,False
+1695195,Not surveyed,Not surveyed,0,False,False,False
+1697675,Together,Together,0,False,True,True
+1698683,Together,Together,0,False,True,True
+1699597,Not surveyed,Not surveyed,0,False,False,False
+1700547,Together,Not surveyed,0,False,True,True
+1705171,Not surveyed,Not surveyed,0,False,False,False
+1705227,Not surveyed,Not surveyed,0,False,False,False
+1707755,Together,Together,0,False,True,True
+1712517,Together,Together,0,False,True,True
+1712857,Together,Together,0,False,True,True
+1717135,Not surveyed,Not surveyed,0,False,False,False
+1718309,Together,Together,0,False,True,True
+1718337,Together,Together,0,False,True,True
+1720897,Not surveyed,Not surveyed,0,False,False,False
+1721055,Broke up,Together,1,False,True,True
+1721651,Together,Not surveyed,0,False,True,True
+1723039,Together,Not surveyed,0,False,True,True
+1723297,Together,Together,0,False,True,True
+1726295,Together,Together,0,False,True,True
+1727435,Together,Together,0,False,True,True
+1730087,Together,Together,0,False,True,True
+1731219,Not surveyed,Not surveyed,0,False,False,False
+1731569,Together,Together,0,False,True,True
+1733853,Partner died,Together,0,True,True,False
+1734941,Together,Together,0,False,True,True
+1736313,Together,Together,0,False,True,True
+1738505,Together,Together,0,False,True,True
+1738617,Together,Together,0,False,True,True
+1739387,Together,Together,0,False,True,True
+1740471,Together,Together,0,False,True,True
+1740893,Together,Together,0,False,True,True
+1741519,Not surveyed,Together,0,False,True,True
+1745593,Broke up,Together,1,False,True,True
+1746055,Not surveyed,Not surveyed,0,False,False,False
+1746431,Together,Together,0,False,True,True
+1746969,Not surveyed,Not surveyed,0,False,False,False
+1748315,Partner died,Not surveyed,0,True,True,False
+1748373,Broke up,Together,1,False,True,True
+1750221,Together,Not surveyed,0,False,True,True
+1754559,Together,Together,0,False,True,True
+1754757,Together,Broke up,1,False,True,True
+1755759,Not surveyed,Not surveyed,0,False,False,False
+1756667,Together,Together,0,False,True,True
+1757463,Together,Together,0,False,True,True
+1757623,Together,Together,0,False,True,True
+1757785,Together,Together,0,False,True,True
+1758271,Together,Not surveyed,0,False,True,True
+1758551,Together,Together,0,False,True,True
+1759461,Not surveyed,Not surveyed,0,False,False,False
+1759763,Together,Not surveyed,0,False,True,True
+1760107,Together,Together,0,False,True,True
+1760115,Broke up,Together,1,False,True,True
+1760991,Together,Together,0,False,True,True
+1761371,Together,Together,0,False,True,True
+1761743,Together,Together,0,False,True,True
+1761763,Together,Together,0,False,True,True
+1762955,Together,Together,0,False,True,True
+1763355,Together,Together,0,False,True,True
+1765565,Not surveyed,Not surveyed,0,False,False,False
+1765719,Together,Together,0,False,True,True
+1765767,Together,Partner died,0,True,True,False
+1765905,Together,Together,0,False,True,True
+1767375,Together,Together,0,False,True,True
+1768233,Together,Together,0,False,True,True
+1768829,Together,Together,0,False,True,True
+1770495,Together,Together,0,False,True,True
+1770769,Not surveyed,Not surveyed,0,False,False,False
+1771987,Not surveyed,Not surveyed,0,False,False,False
+1773811,Not surveyed,Not surveyed,0,False,False,False
+1774405,Together,Together,0,False,True,True
+1775891,Together,Not surveyed,0,False,True,True
+1778019,Broke up,Together,1,False,True,True
+1780607,Together,Together,0,False,True,True
+1784285,Together,Not surveyed,0,False,True,True
+1785191,Together,Together,0,False,True,True
+1785549,Together,Together,0,False,True,True
+1786039,Together,Not surveyed,0,False,True,True
+1786077,Together,Together,0,False,True,True
+1786441,Together,Not surveyed,0,False,True,True
+1786675,Together,Together,0,False,True,True
+1786749,Together,Together,0,False,True,True
+1786835,Broke up,Together,1,False,True,True
+1787105,Broke up,Not surveyed,1,False,True,True
+1787125,Partner died,Not surveyed,0,True,True,False
+1787333,Not surveyed,Not surveyed,0,False,False,False
+1787955,Not surveyed,Together,0,False,True,True
+1788911,Together,Together,0,False,True,True
+1788973,Together,Together,0,False,True,True
+1790599,Not surveyed,Not surveyed,0,False,False,False
+1790879,Together,Together,0,False,True,True
+1791149,Together,Together,0,False,True,True
+1791163,Not surveyed,Not surveyed,0,False,False,False
+1791377,Together,Together,0,False,True,True
+1791495,Together,Together,0,False,True,True
+1792531,Together,Together,0,False,True,True
+1793545,Not surveyed,Not surveyed,0,False,False,False
+1793997,Together,Together,0,False,True,True
+1794225,Together,Together,0,False,True,True
+1794231,Together,Together,0,False,True,True
+1795553,Together,Together,0,False,True,True
+1796173,Not surveyed,Not surveyed,0,False,False,False
+1796859,Not surveyed,Not surveyed,0,False,False,False
+1801065,Together,Together,0,False,True,True
+1801609,Not surveyed,Not surveyed,0,False,False,False
+1802951,Broke up,Not surveyed,1,False,True,True
+1806913,Not surveyed,Together,0,False,True,True
+1806971,Together,Together,0,False,True,True
+1807087,Together,Broke up,1,False,True,True
+1807189,Together,Together,0,False,True,True
+1807959,Together,Not surveyed,0,False,True,True
+1808147,Broke up,Together,1,False,True,True
+1808385,Not surveyed,Together,0,False,True,True
+1808717,Together,Together,0,False,True,True
+1809325,Together,Together,0,False,True,True
+1809643,Broke up,Together,1,False,True,True
+1810247,Broke up,Together,1,False,True,True
+1810471,Broke up,Together,1,False,True,True
+1811407,Together,Not surveyed,0,False,True,True
+1812501,Together,Together,0,False,True,True
+1812505,Broke up,Not surveyed,1,False,True,True
+1812873,Not surveyed,Not surveyed,0,False,False,False
+1812941,Not surveyed,Not surveyed,0,False,False,False
+1814173,Together,Together,0,False,True,True
+1814535,Not surveyed,Not surveyed,0,False,False,False
+1815129,Together,Together,0,False,True,True
+1815187,Together,Not surveyed,0,False,True,True
+1815571,Together,Together,0,False,True,True
+1816203,Broke up,Together,1,False,True,True
+1816407,Together,Together,0,False,True,True
+1816723,Not surveyed,Not surveyed,0,False,False,False
+1817773,Not surveyed,Not surveyed,0,False,False,False
+1820421,Not surveyed,Not surveyed,0,False,False,False
+1820741,Not surveyed,Not surveyed,0,False,False,False
+1822831,Together,Not surveyed,0,False,True,True
+1823725,Not surveyed,Not surveyed,0,False,False,False
+1823887,Together,Together,0,False,True,True
+1824065,Together,Together,0,False,True,True
+1825393,Not surveyed,Not surveyed,0,False,False,False
+1825867,Together,Together,0,False,True,True
+1825933,Not surveyed,Broke up,1,False,True,True
+1825937,Together,Together,0,False,True,True
+1826075,Together,Not surveyed,0,False,True,True
+1828001,Together,Together,0,False,True,True
+1828311,Together,Together,0,False,True,True
+1829901,Together,Not surveyed,0,False,True,True
+1829921,Together,Not surveyed,0,False,True,True
+1830543,Together,Not surveyed,0,False,True,True
+1831239,Together,Not surveyed,0,False,True,True
+1831591,Together,Together,0,False,True,True
+1831603,Together,Together,0,False,True,True
+1833567,Not surveyed,Not surveyed,0,False,False,False
+1833759,Together,Not surveyed,0,False,True,True
+1834561,Together,Together,0,False,True,True
+1834885,Not surveyed,Not surveyed,0,False,False,False
+1835627,Partner died,Not surveyed,0,True,True,False
+1835975,Together,Together,0,False,True,True
+1836809,Not surveyed,Not surveyed,0,False,False,False
+1836997,Together,Not surveyed,0,False,True,True
+1837465,Not surveyed,Not surveyed,0,False,False,False
+1838041,Together,Not surveyed,0,False,True,True
+1840339,Not surveyed,Not surveyed,0,False,False,False
+1841729,Together,Broke up,1,False,True,True
+1841785,Together,Not surveyed,0,False,True,True
+1844841,Together,Together,0,False,True,True
+1845081,Together,Together,0,False,True,True
+1846375,Together,Together,0,False,True,True
+1846783,Not surveyed,Not surveyed,0,False,False,False
+1848539,Not surveyed,Together,0,False,True,True
+1848983,Together,Together,0,False,True,True
+1849533,Not surveyed,Not surveyed,0,False,False,False
+1850371,Not surveyed,Not surveyed,0,False,False,False
+1850681,Together,Together,0,False,True,True
+1850929,Together,Together,0,False,True,True
+1851301,Together,Together,0,False,True,True
+1851973,Together,Together,0,False,True,True
+1852051,Together,Together,0,False,True,True
+1854003,Together,Not surveyed,0,False,True,True
+1854309,Together,Not surveyed,0,False,True,True
+1854377,Broke up,Together,1,False,True,True
+1854475,Together,Together,0,False,True,True
+1855961,Together,Not surveyed,0,False,True,True
+1856209,Together,Together,0,False,True,True
+1857323,Together,Together,0,False,True,True
+1858747,Together,Together,0,False,True,True
+1858757,Not surveyed,Not surveyed,0,False,False,False
+1859287,Not surveyed,Not surveyed,0,False,False,False
+1860057,Together,Together,0,False,True,True
+1860737,Together,Together,0,False,True,True
+1860835,Together,Together,0,False,True,True
+1861177,Together,Together,0,False,True,True
+1862227,Broke up,Together,1,False,True,True
+1865663,Not surveyed,Not surveyed,0,False,False,False
+1867685,Together,Not surveyed,0,False,True,True
+1868961,Not surveyed,Not surveyed,0,False,False,False
+1869479,Together,Together,0,False,True,True
+1870403,Together,Together,0,False,True,True
+1870439,Together,Together,0,False,True,True
+1870585,Not surveyed,Not surveyed,0,False,False,False
+1872925,Not surveyed,Not surveyed,0,False,False,False
+1872973,Together,Not surveyed,0,False,True,True
+1873259,Together,Together,0,False,True,True
+1873799,Not surveyed,Not surveyed,0,False,False,False
+1874783,Together,Together,0,False,True,True
+1875459,Not surveyed,Not surveyed,0,False,False,False
+1875999,Not surveyed,Not surveyed,0,False,False,False
+1877111,Not surveyed,Not surveyed,0,False,False,False
+1877643,Together,Together,0,False,True,True
+1879743,Together,Together,0,False,True,True
+1880801,Together,Not surveyed,0,False,True,True
+1880833,Not surveyed,Together,0,False,True,True
+1882591,Together,Not surveyed,0,False,True,True
+1883037,Together,Together,0,False,True,True
+1883557,Not surveyed,Not surveyed,0,False,False,False
+1884543,Together,Together,0,False,True,True
+1885139,Together,Together,0,False,True,True
+1885983,Not surveyed,Not surveyed,0,False,False,False
+1886009,Together,Not surveyed,0,False,True,True
+1887259,Broke up,Together,1,False,True,True
+1888381,Together,Together,0,False,True,True
+1889229,Partner died,Together,0,True,True,False
+1889817,Not surveyed,Not surveyed,0,False,False,False
+1890179,Not surveyed,Not surveyed,0,False,False,False
+1890779,Together,Together,0,False,True,True
+1891491,Together,Together,0,False,True,True
+1893173,Not surveyed,Not surveyed,0,False,False,False
+1894235,Not surveyed,Not surveyed,0,False,False,False
+1895841,Together,Not surveyed,0,False,True,True
+1898367,Together,Together,0,False,True,True
+1898883,Not surveyed,Not surveyed,0,False,False,False
+1899449,Together,Together,0,False,True,True
+1899645,Together,Together,0,False,True,True
+1900313,Not surveyed,Not surveyed,0,False,False,False
+1900415,Not surveyed,Not surveyed,0,False,False,False
+1900621,Together,Together,0,False,True,True
+1900719,Broke up,Together,1,False,True,True
+1900947,Broke up,Not surveyed,1,False,True,True
+1900951,Together,Together,0,False,True,True
+1900989,Together,Together,0,False,True,True
+1901035,Not surveyed,Not surveyed,0,False,False,False
+1901119,Not surveyed,Not surveyed,0,False,False,False
+1901639,Together,Together,0,False,True,True
+1902067,Together,Together,0,False,True,True
+1902987,Together,Together,0,False,True,True
+1903389,Together,Together,0,False,True,True
+1903763,Together,Not surveyed,0,False,True,True
+1904851,Together,Not surveyed,0,False,True,True
+1905893,Together,Not surveyed,0,False,True,True
+1908393,Not surveyed,Not surveyed,0,False,False,False
+1908725,Together,Together,0,False,True,True
+1909345,Not surveyed,Together,0,False,True,True
+1909355,Together,Not surveyed,0,False,True,True
+1909363,Partner died,Together,0,True,True,False
+1910719,Together,Together,0,False,True,True
+1910803,Together,Together,0,False,True,True
+1910953,Together,Not surveyed,0,False,True,True
+1911165,Together,Together,0,False,True,True
+1911405,Not surveyed,Not surveyed,0,False,False,False
+1912151,Together,Together,0,False,True,True
+1912339,Together,Together,0,False,True,True
+1912555,Not surveyed,Not surveyed,0,False,False,False
+1912589,Not surveyed,Not surveyed,0,False,False,False
+1912593,Not surveyed,Not surveyed,0,False,False,False
+1912879,Together,Together,0,False,True,True
+1912917,Together,Together,0,False,True,True
+1912947,Not surveyed,Not surveyed,0,False,False,False
+1913107,Not surveyed,Not surveyed,0,False,False,False
+1913143,Together,Together,0,False,True,True
+1913921,Not surveyed,Together,0,False,True,True
+1914295,Not surveyed,Not surveyed,0,False,False,False
+1914313,Together,Together,0,False,True,True
+1914679,Not surveyed,Not surveyed,0,False,False,False
+1914787,Not surveyed,Not surveyed,0,False,False,False
+1914889,Together,Together,0,False,True,True
+1915085,Together,Together,0,False,True,True
+1915383,Broke up,Together,1,False,True,True
+1915405,Together,Together,0,False,True,True
+1916039,Together,Together,0,False,True,True
+1918075,Together,Not surveyed,0,False,True,True
+1918593,Not surveyed,Not surveyed,0,False,False,False
+1918741,Not surveyed,Not surveyed,0,False,False,False
+1919359,Together,Together,0,False,True,True
+1920321,Not surveyed,Not surveyed,0,False,False,False
+1920327,Together,Not surveyed,0,False,True,True
+1920673,Not surveyed,Not surveyed,0,False,False,False
+1920851,Together,Together,0,False,True,True
+1920877,Together,Together,0,False,True,True
+1920899,Not surveyed,Not surveyed,0,False,False,False
+1921823,Broke up,Together,1,False,True,True
+1922897,Not surveyed,Not surveyed,0,False,False,False
+1923643,Not surveyed,Not surveyed,0,False,False,False
+1924343,Not surveyed,Not surveyed,0,False,False,False
+1924373,Together,Not surveyed,0,False,True,True
+1924649,Together,Together,0,False,True,True
+1925103,Not surveyed,Not surveyed,0,False,False,False
+1925493,Not surveyed,Not surveyed,0,False,False,False
+1925505,Together,Together,0,False,True,True
+1926103,Broke up,Together,1,False,True,True
+1926181,Together,Together,0,False,True,True
+1926353,Together,Together,0,False,True,True
+1926463,Together,Together,0,False,True,True
+1926629,Not surveyed,Not surveyed,0,False,False,False
+1927049,Together,Together,0,False,True,True
+1927273,Together,Together,0,False,True,True
+1927653,Together,Not surveyed,0,False,True,True
+1927757,Broke up,Together,1,False,True,True
+1928049,Together,Not surveyed,0,False,True,True
+1928207,Together,Together,0,False,True,True
+1928783,Partner died,Together,0,True,True,False
+1929095,Not surveyed,Not surveyed,0,False,False,False
+1929473,Together,Not surveyed,0,False,True,True
+1929653,Together,Together,0,False,True,True
+1930533,Not surveyed,Not surveyed,0,False,False,False
+1930585,Together,Together,0,False,True,True
+1930643,Not surveyed,Not surveyed,0,False,False,False
+1931369,Not surveyed,Not surveyed,0,False,False,False
+1931787,Together,Not surveyed,0,False,True,True
+1931801,Not surveyed,Together,0,False,True,True
+1932575,Not surveyed,Not surveyed,0,False,False,False
+1932837,Together,Together,0,False,True,True
+1932963,Together,Not surveyed,0,False,True,True
+1933373,Not surveyed,Not surveyed,0,False,False,False
+1933777,Not surveyed,Not surveyed,0,False,False,False
+1934823,Together,Not surveyed,0,False,True,True
+1935057,Broke up,Not surveyed,1,False,True,True
+1935207,Together,Not surveyed,0,False,True,True
+1935229,Not surveyed,Not surveyed,0,False,False,False
+1935509,Together,Together,0,False,True,True
+1935873,Together,Together,0,False,True,True
+1938115,Together,Together,0,False,True,True
+1938165,Broke up,Together,1,False,True,True
+1938201,Together,Together,0,False,True,True
+1938441,Not surveyed,Not surveyed,0,False,False,False
+1938529,Not surveyed,Not surveyed,0,False,False,False
+1938841,Broke up,Not surveyed,1,False,True,True
+1939331,Not surveyed,Not surveyed,0,False,False,False
+1940277,Together,Not surveyed,0,False,True,True
+1940691,Together,Together,0,False,True,True
+1941137,Together,Not surveyed,0,False,True,True
+1942189,Not surveyed,Not surveyed,0,False,False,False
+1942391,Together,Together,0,False,True,True
+1943053,Together,Not surveyed,0,False,True,True
+1943159,Not surveyed,Not surveyed,0,False,False,False
+1943505,Together,Not surveyed,0,False,True,True
+1943525,Together,Together,0,False,True,True
+1943633,Together,Together,0,False,True,True
+1945971,Not surveyed,Not surveyed,0,False,False,False
+1946509,Together,Together,0,False,True,True
+1947341,Together,Together,0,False,True,True
+1947485,Together,Not surveyed,0,False,True,True
+1947505,Together,Not surveyed,0,False,True,True
+1948119,Not surveyed,Not surveyed,0,False,False,False
+1948605,Not surveyed,Not surveyed,0,False,False,False
+1948645,Broke up,Together,1,False,True,True
+1949683,Not surveyed,Not surveyed,0,False,False,False
+1951943,Not surveyed,Not surveyed,0,False,False,False
+1951969,Not surveyed,Not surveyed,0,False,False,False
+1952879,Together,Together,0,False,True,True
+1953275,Not surveyed,Not surveyed,0,False,False,False
+1954153,Not surveyed,Not surveyed,0,False,False,False
+1954361,Not surveyed,Not surveyed,0,False,False,False
+1954581,Together,Together,0,False,True,True
+1956243,Together,Together,0,False,True,True
+1957119,Broke up,Together,1,False,True,True
+1957777,Together,Not surveyed,0,False,True,True
+1958229,Together,Together,0,False,True,True
+1958605,Together,Together,0,False,True,True
+1960543,Together,Together,0,False,True,True
+1961301,Together,Together,0,False,True,True
+1964141,Not surveyed,Not surveyed,0,False,False,False
+1964181,Not surveyed,Not surveyed,0,False,False,False
+1964781,Together,Not surveyed,0,False,True,True
+1965275,Not surveyed,Not surveyed,0,False,False,False
+1966191,Not surveyed,Not surveyed,0,False,False,False
+1966321,Together,Together,0,False,True,True
+1966851,Together,Together,0,False,True,True
+1967289,Together,Not surveyed,0,False,True,True
+1967807,Not surveyed,Not surveyed,0,False,False,False
+1968499,Not surveyed,Not surveyed,0,False,False,False
+1968549,Together,Not surveyed,0,False,True,True
+1969389,Together,Together,0,False,True,True
+1969403,Not surveyed,Not surveyed,0,False,False,False
+1970397,Not surveyed,Not surveyed,0,False,False,False
+1970615,Together,Together,0,False,True,True
+1972439,Together,Not surveyed,0,False,True,True
+1972615,Together,Not surveyed,0,False,True,True
+1973051,Not surveyed,Together,0,False,True,True
+1973243,Not surveyed,Broke up,1,False,True,True
+1974485,Not surveyed,Not surveyed,0,False,False,False
+1974537,Together,Together,0,False,True,True
+1974797,Not surveyed,Not surveyed,0,False,False,False
+1974861,Together,Together,0,False,True,True
+1975151,Together,Not surveyed,0,False,True,True
+1975331,Together,Not surveyed,0,False,True,True
+1975529,Together,Not surveyed,0,False,True,True
+1975569,Broke up,Not surveyed,1,False,True,True
+1975919,Together,Together,0,False,True,True
+1975959,Broke up,Together,1,False,True,True
+1976539,Together,Together,0,False,True,True
+1976605,Together,Together,0,False,True,True
+1976731,Together,Together,0,False,True,True
+1977159,Not surveyed,Not surveyed,0,False,False,False
+1977353,Together,Together,0,False,True,True
+1977777,Together,Partner died,0,True,True,False
+1978449,Together,Together,0,False,True,True
+1978523,Broke up,Together,1,False,True,True
+1978581,Together,Not surveyed,0,False,True,True
+1978599,Together,Together,0,False,True,True
+1978889,Together,Together,0,False,True,True
+1979711,Together,Together,0,False,True,True
+1979935,Together,Together,0,False,True,True
+1980005,Together,Together,0,False,True,True
+1980007,Broke up,Together,1,False,True,True
+1982563,Together,Together,0,False,True,True
+1983277,Not surveyed,Not surveyed,0,False,False,False
+1984267,Not surveyed,Not surveyed,0,False,False,False
+1984375,Together,Together,0,False,True,True
+1984819,Together,Together,0,False,True,True
+1985845,Together,Not surveyed,0,False,True,True
+1986761,Not surveyed,Not surveyed,0,False,False,False
+1987317,Broke up,Together,1,False,True,True
+1987975,Not surveyed,Not surveyed,0,False,False,False
+1988099,Together,Together,0,False,True,True
+1988745,Together,Together,0,False,True,True
+1989021,Not surveyed,Not surveyed,0,False,False,False
+1989553,Together,Together,0,False,True,True
+1991077,Together,Together,0,False,True,True
+1993993,Together,Together,0,False,True,True
+1994249,Together,Together,0,False,True,True
+1994489,Not surveyed,Not surveyed,0,False,False,False
+1994621,Not surveyed,Not surveyed,0,False,False,False
+1994805,Together,Broke up,1,False,True,True
+1994977,Not surveyed,Not surveyed,0,False,False,False
+1995327,Not surveyed,Together,0,False,True,True
+1995821,Together,Not surveyed,0,False,True,True
+1995969,Not surveyed,Not surveyed,0,False,False,False
+1996193,Not surveyed,Not surveyed,0,False,False,False
+1996333,Together,Together,0,False,True,True
+1999249,Not surveyed,Not surveyed,0,False,False,False
+2000479,Together,Not surveyed,0,False,True,True
+2000491,Not surveyed,Not surveyed,0,False,False,False
+2002441,Together,Together,0,False,True,True
+2004933,Not surveyed,Broke up,1,False,True,True
+2007615,Not surveyed,Not surveyed,0,False,False,False
+2008049,Not surveyed,Not surveyed,0,False,False,False
+2009701,Not surveyed,Not surveyed,0,False,False,False
+2009751,Not surveyed,Not surveyed,0,False,False,False
+2011179,Together,Not surveyed,0,False,True,True
+2011413,Together,Not surveyed,0,False,True,True
+2011465,Together,Together,0,False,True,True
+2013467,Not surveyed,Not surveyed,0,False,False,False
+2013981,Together,Together,0,False,True,True
+2014211,Together,Together,0,False,True,True
+2014573,Together,Together,0,False,True,True
+2014647,Together,Together,0,False,True,True
+2014737,Not surveyed,Not surveyed,0,False,False,False
+2014793,Together,Together,0,False,True,True
+2014807,Together,Together,0,False,True,True
+2015057,Together,Together,0,False,True,True
+2015377,Together,Together,0,False,True,True
+2015439,Not surveyed,Not surveyed,0,False,False,False
+2016321,Together,Not surveyed,0,False,True,True
+2016911,Together,Together,0,False,True,True
+2016979,Not surveyed,Not surveyed,0,False,False,False
+2017035,Together,Together,0,False,True,True
+2017353,Not surveyed,Not surveyed,0,False,False,False
+2017641,Together,Together,0,False,True,True
+2018783,Partner died,Together,0,True,True,False
+2018973,Together,Together,0,False,True,True
+2019003,Together,Together,0,False,True,True
+2019193,Not surveyed,Not surveyed,0,False,False,False
+2019427,Not surveyed,Together,0,False,True,True
+2020911,Together,Together,0,False,True,True
+2021701,Together,Together,0,False,True,True
+2023291,Not surveyed,Not surveyed,0,False,False,False
+2023543,Together,Not surveyed,0,False,True,True
+2024199,Not surveyed,Not surveyed,0,False,False,False
+2024625,Not surveyed,Not surveyed,0,False,False,False
+2025287,Together,Together,0,False,True,True
+2025455,Together,Together,0,False,True,True
+2026673,Together,Not surveyed,0,False,True,True
+2027307,Together,Together,0,False,True,True
+2027511,Together,Not surveyed,0,False,True,True
+2028203,Broke up,Together,1,False,True,True
+2028967,Together,Together,0,False,True,True
+2029467,Together,Together,0,False,True,True
+2032385,Not surveyed,Not surveyed,0,False,False,False
+2032401,Together,Together,0,False,True,True
+2033003,Together,Together,0,False,True,True
+2033625,Not surveyed,Not surveyed,0,False,False,False
+2034867,Not surveyed,Not surveyed,0,False,False,False
+2037167,Not surveyed,Not surveyed,0,False,False,False
+2037837,Together,Together,0,False,True,True
+2041723,Not surveyed,Broke up,1,False,True,True
+2043585,Not surveyed,Not surveyed,0,False,False,False
+2043853,Together,Together,0,False,True,True
+2043871,Not surveyed,Not surveyed,0,False,False,False
+2044235,Not surveyed,Not surveyed,0,False,False,False
+2044441,Together,Together,0,False,True,True
+2044989,Together,Not surveyed,0,False,True,True
+2045021,Not surveyed,Not surveyed,0,False,False,False
+2046249,Broke up,Not surveyed,1,False,True,True
+2048317,Broke up,Together,1,False,True,True
+2048479,Not surveyed,Not surveyed,0,False,False,False
+2048481,Not surveyed,Not surveyed,0,False,False,False
+2049835,Together,Not surveyed,0,False,True,True
+2052461,Together,Together,0,False,True,True
+2053645,Together,Together,0,False,True,True
+2054099,Broke up,Together,1,False,True,True
+2054225,Together,Together,0,False,True,True
+2054239,Not surveyed,Not surveyed,0,False,False,False
+2054791,Together,Together,0,False,True,True
+2054807,Not surveyed,Together,0,False,True,True
+2054837,Broke up,Not surveyed,1,False,True,True
+2055825,Together,Not surveyed,0,False,True,True
+2056521,Together,Not surveyed,0,False,True,True
+2064065,Not surveyed,Not surveyed,0,False,False,False
+2064643,Together,Not surveyed,0,False,True,True
+2064671,Together,Not surveyed,0,False,True,True
+2064773,Broke up,Together,1,False,True,True
+2065089,Not surveyed,Not surveyed,0,False,False,False
+2065091,Together,Together,0,False,True,True
+2065295,Together,Together,0,False,True,True
+2065339,Together,Together,0,False,True,True
+2065349,Not surveyed,Not surveyed,0,False,False,False
+2065579,Together,Not surveyed,0,False,True,True
+2067655,Not surveyed,Not surveyed,0,False,False,False
+2071775,Together,Together,0,False,True,True
+2071877,Together,Together,0,False,True,True
+2072325,Together,Together,0,False,True,True
+2072903,Together,Together,0,False,True,True
+2074241,Together,Together,0,False,True,True
+2074555,Not surveyed,Not surveyed,0,False,False,False
+2075775,Together,Together,0,False,True,True
+2075951,Not surveyed,Not surveyed,0,False,False,False
+2076645,Together,Together,0,False,True,True
+2079077,Together,Not surveyed,0,False,True,True
+2083123,Together,Together,0,False,True,True
+2084067,Partner died,Together,0,True,True,False
+2084273,Together,Together,0,False,True,True
+2084489,Not surveyed,Not surveyed,0,False,False,False
+2084743,Together,Together,0,False,True,True
+2084755,Together,Not surveyed,0,False,True,True
+2084909,Not surveyed,Not surveyed,0,False,False,False
+2085829,Not surveyed,Not surveyed,0,False,False,False
+2086473,Together,Together,0,False,True,True
+2086637,Together,Together,0,False,True,True
+2086775,Together,Together,0,False,True,True
+2086877,Not surveyed,Not surveyed,0,False,False,False
+2088603,Together,Not surveyed,0,False,True,True
+2088949,Broke up,Not surveyed,1,False,True,True
+2089225,Broke up,Not surveyed,1,False,True,True
+2089701,Together,Together,0,False,True,True
+2089837,Not surveyed,Not surveyed,0,False,False,False
+2089935,Together,Not surveyed,0,False,True,True
+2090075,Together,Not surveyed,0,False,True,True
+2090459,Together,Together,0,False,True,True
+2091277,Not surveyed,Not surveyed,0,False,False,False
+2091283,Not surveyed,Together,0,False,True,True
+2091975,Not surveyed,Not surveyed,0,False,False,False
+2092107,Together,Together,0,False,True,True
+2092321,Not surveyed,Not surveyed,0,False,False,False
+2092939,Not surveyed,Not surveyed,0,False,False,False
+2093615,Together,Together,0,False,True,True
+2095563,Not surveyed,Not surveyed,0,False,False,False
+2098563,Not surveyed,Not surveyed,0,False,False,False
+2101713,Together,Together,0,False,True,True
+2102527,Not surveyed,Not surveyed,0,False,False,False
+2102733,Together,Together,0,False,True,True
+2103257,Not surveyed,Together,0,False,True,True
+2103721,Not surveyed,Not surveyed,0,False,False,False
+2104081,Not surveyed,Not surveyed,0,False,False,False
+2106585,Not surveyed,Not surveyed,0,False,False,False
+2107177,Not surveyed,Not surveyed,0,False,False,False
+2107363,Together,Not surveyed,0,False,True,True
+2107405,Broke up,Together,1,False,True,True
+2109385,Together,Together,0,False,True,True
+2111263,Not surveyed,Not surveyed,0,False,False,False
+2111275,Together,Together,0,False,True,True
+2114297,Broke up,Together,1,False,True,True
+2114355,Broke up,Together,1,False,True,True
+2114995,Together,Not surveyed,0,False,True,True
+2116717,Together,Together,0,False,True,True
+2116829,Together,Together,0,False,True,True
+2118341,Together,Together,0,False,True,True
+2124697,Not surveyed,Not surveyed,0,False,False,False
+2124941,Not surveyed,Not surveyed,0,False,False,False
+2125001,Together,Together,0,False,True,True
+2125135,Together,Together,0,False,True,True
+2126263,Not surveyed,Broke up,1,False,True,True
+2126717,Broke up,Together,1,False,True,True
+2127023,Together,Together,0,False,True,True
+2128107,Not surveyed,Together,0,False,True,True
+2131311,Not surveyed,Broke up,1,False,True,True
+2132357,Together,Together,0,False,True,True
+2132403,Together,Not surveyed,0,False,True,True
+2136549,Together,Not surveyed,0,False,True,True
+2136629,Together,Together,0,False,True,True
+2136689,Together,Not surveyed,0,False,True,True
+2136693,Not surveyed,Not surveyed,0,False,False,False
+2136809,Broke up,Not surveyed,1,False,True,True
+2136855,Together,Not surveyed,0,False,True,True
+2137193,Together,Not surveyed,0,False,True,True
+2138067,Together,Together,0,False,True,True
+2139319,Not surveyed,Not surveyed,0,False,False,False
+2139655,Not surveyed,Not surveyed,0,False,False,False
+2140759,Not surveyed,Not surveyed,0,False,False,False
+2140901,Together,Not surveyed,0,False,True,True
+2141675,Not surveyed,Not surveyed,0,False,False,False
+2141677,Together,Together,0,False,True,True
+2141829,Not surveyed,Not surveyed,0,False,False,False
+2141839,Together,Together,0,False,True,True
+2142051,Together,Together,0,False,True,True
+2142099,Together,Together,0,False,True,True
+2142839,Not surveyed,Not surveyed,0,False,False,False
+2143321,Together,Together,0,False,True,True
+2144713,Together,Together,0,False,True,True
+2144859,Together,Together,0,False,True,True
+2144897,Not surveyed,Not surveyed,0,False,False,False
+2145117,Not surveyed,Together,0,False,True,True
+2145315,Together,Together,0,False,True,True
+2145527,Not surveyed,Not surveyed,0,False,False,False
+2146207,Not surveyed,Not surveyed,0,False,False,False
+2146425,Not surveyed,Not surveyed,0,False,False,False
+2146471,Together,Together,0,False,True,True
+2146521,Together,Together,0,False,True,True
+2147081,Not surveyed,Not surveyed,0,False,False,False
+2147861,Not surveyed,Not surveyed,0,False,False,False
+2148015,Together,Together,0,False,True,True
+2148893,Together,Together,0,False,True,True
+2149957,Together,Not surveyed,0,False,True,True
+2150161,Not surveyed,Not surveyed,0,False,False,False
+2150359,Not surveyed,Not surveyed,0,False,False,False
+2150365,Not surveyed,Together,0,False,True,True
+2150647,Together,Together,0,False,True,True
+2150703,Together,Together,0,False,True,True
+2151593,Not surveyed,Not surveyed,0,False,False,False
+2152283,Together,Together,0,False,True,True
+2153293,Not surveyed,Not surveyed,0,False,False,False
+2153591,Together,Together,0,False,True,True
+2153601,Together,Together,0,False,True,True
+2154415,Together,Together,0,False,True,True
+2154761,Together,Together,0,False,True,True
+2155971,Together,Together,0,False,True,True
+2156267,Together,Not surveyed,0,False,True,True
+2156555,Together,Not surveyed,0,False,True,True
+2157335,Not surveyed,Not surveyed,0,False,False,False
+2157559,Not surveyed,Not surveyed,0,False,False,False
+2158489,Together,Not surveyed,0,False,True,True
+2158831,Together,Together,0,False,True,True
+2159851,Together,Not surveyed,0,False,True,True
+2160119,Together,Not surveyed,0,False,True,True
+2160165,Together,Not surveyed,0,False,True,True
+2161255,Together,Together,0,False,True,True
+2162113,Not surveyed,Not surveyed,0,False,False,False
+2162891,Together,Together,0,False,True,True
+2163859,Together,Together,0,False,True,True
+2163905,Together,Together,0,False,True,True
+2164423,Together,Not surveyed,0,False,True,True
+2164953,Not surveyed,Not surveyed,0,False,False,False
+2165663,Not surveyed,Not surveyed,0,False,False,False
+2166521,Together,Together,0,False,True,True
+2167453,Together,Together,0,False,True,True
+2168137,Together,Together,0,False,True,True
+2168577,Broke up,Together,1,False,True,True
+2169639,Together,Together,0,False,True,True
+2170047,Broke up,Together,1,False,True,True
+2170071,Not surveyed,Not surveyed,0,False,False,False
+2170187,Together,Together,0,False,True,True
+2171049,Not surveyed,Not surveyed,0,False,False,False
+2171151,Not surveyed,Not surveyed,0,False,False,False
+2171661,Together,Together,0,False,True,True
+2171799,Not surveyed,Not surveyed,0,False,False,False
+2171997,Together,Together,0,False,True,True
+2174237,Together,Together,0,False,True,True
+2174465,Together,Not surveyed,0,False,True,True
+2174495,Not surveyed,Not surveyed,0,False,False,False
+2174899,Not surveyed,Together,0,False,True,True
+2175191,Not surveyed,Not surveyed,0,False,False,False
+2175337,Not surveyed,Not surveyed,0,False,False,False
+2175579,Not surveyed,Not surveyed,0,False,False,False
+2175609,Not surveyed,Not surveyed,0,False,False,False
+2177139,Together,Together,0,False,True,True
+2177193,Together,Together,0,False,True,True
+2177551,Together,Together,0,False,True,True
+2178301,Not surveyed,Together,0,False,True,True
+2178573,Together,Not surveyed,0,False,True,True
+2178997,Broke up,Together,1,False,True,True
+2179295,Together,Together,0,False,True,True
+2179309,Broke up,Together,1,False,True,True
+2179641,Not surveyed,Not surveyed,0,False,False,False
+2180629,Broke up,Together,1,False,True,True
+2181207,Not surveyed,Not surveyed,0,False,False,False
+2182777,Not surveyed,Not surveyed,0,False,False,False
+2183173,Together,Not surveyed,0,False,True,True
+2183327,Not surveyed,Not surveyed,0,False,False,False
+2185855,Not surveyed,Not surveyed,0,False,False,False
+2189737,Not surveyed,Not surveyed,0,False,False,False
+2196777,Together,Not surveyed,0,False,True,True
+2201295,Together,Not surveyed,0,False,True,True
+2203355,Broke up,Together,1,False,True,True
+2205453,Not surveyed,Not surveyed,0,False,False,False
+2205625,Broke up,Together,1,False,True,True
+2205751,Together,Together,0,False,True,True
+2206813,Together,Together,0,False,True,True
+2206825,Not surveyed,Not surveyed,0,False,False,False
+2207131,Together,Together,0,False,True,True
+2207217,Together,Broke up,1,False,True,True
+2207753,Together,Together,0,False,True,True
+2207815,Partner died,Not surveyed,0,True,True,False
+2207821,Not surveyed,Not surveyed,0,False,False,False
+2208823,Not surveyed,Together,0,False,True,True
+2208969,Not surveyed,Not surveyed,0,False,False,False
+2209047,Not surveyed,Not surveyed,0,False,False,False
+2209083,Partner died,Not surveyed,0,True,True,False
+2209197,Not surveyed,Not surveyed,0,False,False,False
+2210355,Together,Together,0,False,True,True
+2211239,Together,Together,0,False,True,True
+2211389,Not surveyed,Not surveyed,0,False,False,False
+2211773,Together,Together,0,False,True,True
+2211779,Together,Together,0,False,True,True
+2211921,Together,Not surveyed,0,False,True,True
+2212019,Not surveyed,Not surveyed,0,False,False,False
+2212021,Not surveyed,Together,0,False,True,True
+2212399,Not surveyed,Not surveyed,0,False,False,False
+2212453,Broke up,Not surveyed,1,False,True,True
+2212571,Not surveyed,Not surveyed,0,False,False,False
+2212677,Together,Together,0,False,True,True
+2213647,Not surveyed,Not surveyed,0,False,False,False
+2214123,Not surveyed,Not surveyed,0,False,False,False
+2214307,Not surveyed,Not surveyed,0,False,False,False
+2214699,Not surveyed,Not surveyed,0,False,False,False
+2214763,Together,Together,0,False,True,True
+2215215,Together,Together,0,False,True,True
+2216483,Not surveyed,Not surveyed,0,False,False,False
+2216625,Together,Together,0,False,True,True
+2218005,Together,Together,0,False,True,True
+2218423,Broke up,Together,1,False,True,True
+2219115,Together,Not surveyed,0,False,True,True
+2219299,Together,Together,0,False,True,True
+2219513,Broke up,Together,1,False,True,True
+2219813,Broke up,Together,1,False,True,True
+2219971,Not surveyed,Together,0,False,True,True
+2220731,Together,Not surveyed,0,False,True,True
+2220805,Not surveyed,Not surveyed,0,False,False,False
+2220867,Not surveyed,Not surveyed,0,False,False,False
+2221631,Together,Not surveyed,0,False,True,True
+2222317,Together,Not surveyed,0,False,True,True
+2223059,Not surveyed,Not surveyed,0,False,False,False
+2225637,Not surveyed,Not surveyed,0,False,False,False
+2226395,Not surveyed,Not surveyed,0,False,False,False
+2226649,Together,Together,0,False,True,True
+2226703,Not surveyed,Not surveyed,0,False,False,False
+2227011,Together,Together,0,False,True,True
+2227047,Together,Together,0,False,True,True
+2227745,Together,Together,0,False,True,True
+2228393,Together,Together,0,False,True,True
+2228603,Not surveyed,Together,0,False,True,True
+2228681,Together,Together,0,False,True,True
+2228943,Not surveyed,Not surveyed,0,False,False,False
+2229041,Not surveyed,Not surveyed,0,False,False,False
+2231079,Together,Together,0,False,True,True
+2231605,Not surveyed,Not surveyed,0,False,False,False
+2231945,Not surveyed,Not surveyed,0,False,False,False
+2232385,Not surveyed,Not surveyed,0,False,False,False
+2232397,Together,Together,0,False,True,True
+2232915,Broke up,Together,1,False,True,True
+2232929,Together,Together,0,False,True,True
+2233103,Together,Together,0,False,True,True
+2234159,Together,Not surveyed,0,False,True,True
+2234443,Not surveyed,Not surveyed,0,False,False,False
+2235583,Together,Together,0,False,True,True
+2235913,Broke up,Together,1,False,True,True
+2236417,Not surveyed,Not surveyed,0,False,False,False
+2236609,Not surveyed,Not surveyed,0,False,False,False
+2237055,Together,Together,0,False,True,True
+2237111,Together,Together,0,False,True,True
+2237691,Together,Together,0,False,True,True
+2237695,Broke up,Not surveyed,1,False,True,True
+2239179,Together,Together,0,False,True,True
+2239403,Together,Together,0,False,True,True
+2240477,Not surveyed,Not surveyed,0,False,False,False
+2241407,Not surveyed,Not surveyed,0,False,False,False
+2241473,Not surveyed,Not surveyed,0,False,False,False
+2241593,Not surveyed,Not surveyed,0,False,False,False
+2241619,Broke up,Not surveyed,1,False,True,True
+2242567,Broke up,Together,1,False,True,True
+2243015,Together,Together,0,False,True,True
+2244899,Not surveyed,Together,0,False,True,True
+2245161,Broke up,Together,1,False,True,True
+2245281,Not surveyed,Not surveyed,0,False,False,False
+2246951,Together,Together,0,False,True,True
+2247021,Together,Together,0,False,True,True
+2247423,Together,Together,0,False,True,True
+2247535,Together,Together,0,False,True,True
+2248415,Not surveyed,Not surveyed,0,False,False,False
+2248583,Broke up,Together,1,False,True,True
+2248679,Together,Broke up,1,False,True,True
+2248865,Not surveyed,Not surveyed,0,False,False,False
+2249131,Together,Together,0,False,True,True
+2249677,Together,Together,0,False,True,True
+2249943,Not surveyed,Not surveyed,0,False,False,False
+2250865,Partner died,Together,0,True,True,False
+2253687,Together,Not surveyed,0,False,True,True
+2254741,Together,Together,0,False,True,True
+2255089,Together,Together,0,False,True,True
+2255167,Together,Together,0,False,True,True
+2255555,Together,Not surveyed,0,False,True,True
+2255583,Not surveyed,Together,0,False,True,True
+2255717,Not surveyed,Not surveyed,0,False,False,False
+2256865,Together,Together,0,False,True,True
+2257097,Together,Together,0,False,True,True
+2257523,Broke up,Together,1,False,True,True
+2258307,Together,Not surveyed,0,False,True,True
+2258769,Together,Not surveyed,0,False,True,True
+2259031,Together,Together,0,False,True,True
+2260821,Not surveyed,Partner died,0,True,True,False
+2261535,Not surveyed,Not surveyed,0,False,False,False
+2261673,Together,Together,0,False,True,True
+2262837,Not surveyed,Not surveyed,0,False,False,False
+2264059,Together,Together,0,False,True,True
+2264971,Not surveyed,Not surveyed,0,False,False,False
+2265151,Not surveyed,Not surveyed,0,False,False,False
+2265281,Together,Together,0,False,True,True
+2267483,Not surveyed,Not surveyed,0,False,False,False
+2267513,Together,Together,0,False,True,True
+2270949,Together,Together,0,False,True,True
+2271349,Together,Together,0,False,True,True
+2272975,Broke up,Together,1,False,True,True
+2275209,Together,Together,0,False,True,True
+2275771,Broke up,Together,1,False,True,True
+2277133,Not surveyed,Not surveyed,0,False,False,False
+2277693,Together,Not surveyed,0,False,True,True
+2277911,Not surveyed,Not surveyed,0,False,False,False
+2278063,Together,Not surveyed,0,False,True,True
+2278413,Not surveyed,Not surveyed,0,False,False,False
+2278543,Not surveyed,Not surveyed,0,False,False,False
+2278899,Not surveyed,Not surveyed,0,False,False,False
+2279341,Not surveyed,Not surveyed,0,False,False,False
+2279685,Together,Together,0,False,True,True
+2280139,Broke up,Together,1,False,True,True
+2280829,Together,Together,0,False,True,True
+2281739,Together,Not surveyed,0,False,True,True
+2282833,Together,Not surveyed,0,False,True,True
+2283143,Together,Together,0,False,True,True
+2283455,Together,Together,0,False,True,True
+2283631,Not surveyed,Not surveyed,0,False,False,False
+2283987,Together,Together,0,False,True,True
+2283991,Together,Together,0,False,True,True
+2284087,Broke up,Together,1,False,True,True
+2284105,Together,Together,0,False,True,True
+2285577,Not surveyed,Not surveyed,0,False,False,False
+2287223,Together,Together,0,False,True,True
+2287229,Not surveyed,Not surveyed,0,False,False,False
+2289087,Together,Together,0,False,True,True
+2291915,Together,Not surveyed,0,False,True,True
+2292001,Not surveyed,Not surveyed,0,False,False,False
+2292541,Together,Together,0,False,True,True
+2293129,Not surveyed,Not surveyed,0,False,False,False
+2293405,Together,Together,0,False,True,True
+2294693,Together,Together,0,False,True,True
+2295089,Together,Together,0,False,True,True
+2295739,Not surveyed,Not surveyed,0,False,False,False
+2295783,Together,Not surveyed,0,False,True,True
+2295955,Together,Together,0,False,True,True
+2296169,Together,Together,0,False,True,True
+2296263,Not surveyed,Not surveyed,0,False,False,False
+2296453,Together,Together,0,False,True,True
+2296679,Not surveyed,Not surveyed,0,False,False,False
+2296791,Together,Together,0,False,True,True
+2296879,Together,Together,0,False,True,True
+2296955,Not surveyed,Together,0,False,True,True
+2296989,Together,Together,0,False,True,True
+2298501,Not surveyed,Not surveyed,0,False,False,False
+2298529,Not surveyed,Not surveyed,0,False,False,False
+2298757,Broke up,Together,1,False,True,True
+2298921,Broke up,Together,1,False,True,True
+2299329,Broke up,Together,1,False,True,True
+2299489,Together,Together,0,False,True,True
+2299695,Not surveyed,Not surveyed,0,False,False,False
+2299825,Not surveyed,Not surveyed,0,False,False,False
+2299927,Not surveyed,Not surveyed,0,False,False,False
+2300197,Together,Together,0,False,True,True
+2300461,Together,Together,0,False,True,True
+2300471,Not surveyed,Not surveyed,0,False,False,False
+2300601,Not surveyed,Not surveyed,0,False,False,False
+2300681,Not surveyed,Not surveyed,0,False,False,False
+2301575,Together,Together,0,False,True,True
+2302555,Broke up,Together,1,False,True,True
+2302735,Together,Together,0,False,True,True
+2302771,Together,Together,0,False,True,True
+2302963,Together,Together,0,False,True,True
+2304871,Not surveyed,Not surveyed,0,False,False,False
+2305135,Together,Together,0,False,True,True
+2306191,Not surveyed,Not surveyed,0,False,False,False
+2306519,Not surveyed,Not surveyed,0,False,False,False
+2306549,Together,Together,0,False,True,True
+2307227,Not surveyed,Not surveyed,0,False,False,False
+2307533,Broke up,Not surveyed,1,False,True,True
+2308025,Together,Together,0,False,True,True
+2308827,Not surveyed,Not surveyed,0,False,False,False
+2309513,Broke up,Not surveyed,1,False,True,True
+2309557,Together,Together,0,False,True,True
+2309889,Together,Together,0,False,True,True
+2309989,Broke up,Together,1,False,True,True
+2310129,Not surveyed,Not surveyed,0,False,False,False
+2310793,Together,Together,0,False,True,True
+2310811,Not surveyed,Together,0,False,True,True
+2310821,Together,Together,0,False,True,True
+2310843,Not surveyed,Not surveyed,0,False,False,False
+2311713,Together,Together,0,False,True,True
+2312343,Together,Together,0,False,True,True
+2312649,Together,Together,0,False,True,True
+2312691,Partner died,Together,0,True,True,False
+2314949,Together,Together,0,False,True,True
+2316989,Together,Not surveyed,0,False,True,True
+2317233,Together,Together,0,False,True,True
+2317447,Not surveyed,Not surveyed,0,False,False,False
+2317517,Not surveyed,Not surveyed,0,False,False,False
+2317651,Not surveyed,Not surveyed,0,False,False,False
+2318053,Not surveyed,Not surveyed,0,False,False,False
+2318729,Together,Together,0,False,True,True
+2319615,Together,Together,0,False,True,True
+2319981,Together,Not surveyed,0,False,True,True
+2320021,Not surveyed,Not surveyed,0,False,False,False
+2320991,Together,Together,0,False,True,True
+2321101,Not surveyed,Together,0,False,True,True
+2321201,Not surveyed,Not surveyed,0,False,False,False
+2324611,Broke up,Together,1,False,True,True
+2325909,Together,Together,0,False,True,True
+2325975,Not surveyed,Together,0,False,True,True
+2326087,Not surveyed,Not surveyed,0,False,False,False
+2327049,Together,Not surveyed,0,False,True,True
+2327101,Together,Together,0,False,True,True
+2328849,Together,Together,0,False,True,True
+2329087,Together,Not surveyed,0,False,True,True
+2330119,Together,Together,0,False,True,True
+2330201,Broke up,Together,1,False,True,True
+2330205,Not surveyed,Not surveyed,0,False,False,False
+2331269,Not surveyed,Not surveyed,0,False,False,False
+2331865,Together,Together,0,False,True,True
+2332513,Together,Not surveyed,0,False,True,True
+2332637,Together,Together,0,False,True,True
+2333153,Together,Together,0,False,True,True
+2333337,Broke up,Together,1,False,True,True
+2333789,Not surveyed,Not surveyed,0,False,False,False
+2333793,Broke up,Together,1,False,True,True
+2334509,Together,Not surveyed,0,False,True,True
+2334613,Not surveyed,Not surveyed,0,False,False,False
+2334663,Together,Together,0,False,True,True
+2335451,Not surveyed,Not surveyed,0,False,False,False
+2335945,Not surveyed,Not surveyed,0,False,False,False
+2336171,Together,Together,0,False,True,True
+2336237,Not surveyed,Not surveyed,0,False,False,False
+2336267,Together,Together,0,False,True,True
+2337359,Together,Not surveyed,0,False,True,True
+2337775,Not surveyed,Not surveyed,0,False,False,False
+2337841,Together,Together,0,False,True,True
+2338101,Together,Together,0,False,True,True
+2338241,Together,Together,0,False,True,True
+2338293,Not surveyed,Together,0,False,True,True
+2339573,Together,Together,0,False,True,True
+2340595,Together,Together,0,False,True,True
+2340833,Not surveyed,Not surveyed,0,False,False,False
+2340931,Together,Not surveyed,0,False,True,True
+2340993,Together,Not surveyed,0,False,True,True
+2340997,Not surveyed,Not surveyed,0,False,False,False
+2341035,Not surveyed,Not surveyed,0,False,False,False
+2341467,Broke up,Together,1,False,True,True
+2343369,Not surveyed,Not surveyed,0,False,False,False
+2343477,Together,Not surveyed,0,False,True,True
+2343657,Not surveyed,Not surveyed,0,False,False,False
+2343777,Not surveyed,Not surveyed,0,False,False,False
+2344069,Together,Broke up,1,False,True,True
+2344091,Not surveyed,Not surveyed,0,False,False,False
+2344129,Not surveyed,Together,0,False,True,True
+2344635,Together,Together,0,False,True,True
+2344663,Not surveyed,Not surveyed,0,False,False,False
+2345121,Together,Not surveyed,0,False,True,True
+2345215,Together,Together,0,False,True,True
+2345501,Together,Broke up,1,False,True,True
+2345685,Together,Together,0,False,True,True
+2346013,Together,Together,0,False,True,True
+2346389,Together,Together,0,False,True,True
+2346849,Not surveyed,Not surveyed,0,False,False,False
+2347249,Not surveyed,Not surveyed,0,False,False,False
+2347263,Together,Together,0,False,True,True
+2347771,Together,Not surveyed,0,False,True,True
+2347795,Not surveyed,Not surveyed,0,False,False,False
+2348989,Not surveyed,Not surveyed,0,False,False,False
+2349227,Partner died,Together,0,True,True,False
+2349701,Not surveyed,Not surveyed,0,False,False,False
+2350353,Not surveyed,Broke up,1,False,True,True
+2351687,Partner died,Together,0,True,True,False
+2352239,Together,Together,0,False,True,True
+2352323,Together,Not surveyed,0,False,True,True
+2352995,Together,Together,0,False,True,True
+2353369,Not surveyed,Not surveyed,0,False,False,False
+2353661,Not surveyed,Not surveyed,0,False,False,False
+2354647,Broke up,Together,1,False,True,True
+2354673,Together,Together,0,False,True,True
+2354779,Not surveyed,Not surveyed,0,False,False,False
+2354989,Not surveyed,Not surveyed,0,False,False,False
+2355501,Together,Together,0,False,True,True
+2356133,Together,Together,0,False,True,True
+2356411,Together,Together,0,False,True,True
+2357357,Together,Not surveyed,0,False,True,True
+2360145,Broke up,Together,1,False,True,True
+2360211,Broke up,Together,1,False,True,True
+2360415,Together,Not surveyed,0,False,True,True
+2361493,Together,Together,0,False,True,True
+2362051,Together,Together,0,False,True,True
+2363917,Together,Together,0,False,True,True
+2396417,Together,Not surveyed,0,False,True,True
+2401785,Together,Together,0,False,True,True
+2402977,Together,Together,0,False,True,True
+2405443,Together,Together,0,False,True,True
+2405521,Together,Together,0,False,True,True
+2405763,Not surveyed,Not surveyed,0,False,False,False
+2408297,Together,Together,0,False,True,True
+2408927,Partner died,Together,0,True,True,False
+2409221,Together,Together,0,False,True,True
+2409277,Together,Not surveyed,0,False,True,True
+2409349,Not surveyed,Not surveyed,0,False,False,False
+2409689,Together,Together,0,False,True,True
+2409747,Not surveyed,Together,0,False,True,True
+2409887,Together,Together,0,False,True,True
+2409947,Together,Together,0,False,True,True
+2411543,Together,Together,0,False,True,True
+2411689,Together,Together,0,False,True,True
+2411765,Not surveyed,Broke up,1,False,True,True
+2412059,Not surveyed,Not surveyed,0,False,False,False
+2412093,Broke up,Together,1,False,True,True
+2412127,Together,Together,0,False,True,True
+2413081,Together,Together,0,False,True,True
+2413249,Together,Together,0,False,True,True
+2413817,Together,Partner died,0,True,True,False
+2415281,Broke up,Together,1,False,True,True
+2415707,Not surveyed,Not surveyed,0,False,False,False
+2416743,Not surveyed,Not surveyed,0,False,False,False
+2417365,Together,Together,0,False,True,True
+2417997,Together,Together,0,False,True,True
+2418179,Together,Broke up,1,False,True,True
+2418851,Not surveyed,Not surveyed,0,False,False,False
+2419201,Not surveyed,Not surveyed,0,False,False,False
+2419249,Not surveyed,Not surveyed,0,False,False,False
+2419259,Together,Together,0,False,True,True
+2419327,Together,Together,0,False,True,True
+2420829,Together,Together,0,False,True,True
+2422033,Together,Partner died,0,True,True,False
+2422219,Not surveyed,Not surveyed,0,False,False,False
+2422225,Not surveyed,Not surveyed,0,False,False,False
+2422479,Not surveyed,Not surveyed,0,False,False,False
+2422835,Together,Together,0,False,True,True
+2423007,Together,Together,0,False,True,True
+2424267,Together,Not surveyed,0,False,True,True
+2424537,Together,Together,0,False,True,True
+2425091,Together,Together,0,False,True,True
+2425113,Together,Partner died,0,True,True,False
+2426057,Not surveyed,Not surveyed,0,False,False,False
+2427329,Together,Together,0,False,True,True
+2428725,Not surveyed,Not surveyed,0,False,False,False
+2429211,Not surveyed,Not surveyed,0,False,False,False
+2429259,Not surveyed,Together,0,False,True,True
+2429297,Together,Together,0,False,True,True
+2429937,Not surveyed,Not surveyed,0,False,False,False
+2430011,Together,Together,0,False,True,True
+2430177,Not surveyed,Together,0,False,True,True
+2430261,Together,Together,0,False,True,True
+2430431,Not surveyed,Not surveyed,0,False,False,False
+2430731,Together,Together,0,False,True,True
+2430941,Together,Together,0,False,True,True
+2431217,Together,Together,0,False,True,True
+2431555,Not surveyed,Not surveyed,0,False,False,False
+2431691,Together,Together,0,False,True,True
+2432505,Not surveyed,Not surveyed,0,False,False,False
+2432911,Not surveyed,Not surveyed,0,False,False,False
+2433491,Broke up,Together,1,False,True,True
+2433523,Together,Not surveyed,0,False,True,True
+2433921,Not surveyed,Not surveyed,0,False,False,False
+2434603,Not surveyed,Not surveyed,0,False,False,False
+2434799,Not surveyed,Not surveyed,0,False,False,False
+2436775,Together,Together,0,False,True,True
+2436989,Together,Together,0,False,True,True
+2437285,Not surveyed,Not surveyed,0,False,False,False
+2437991,Together,Together,0,False,True,True
+2439037,Not surveyed,Not surveyed,0,False,False,False
+2439921,Not surveyed,Not surveyed,0,False,False,False
+2440127,Together,Together,0,False,True,True
+2440287,Not surveyed,Not surveyed,0,False,False,False
+2440417,Together,Together,0,False,True,True
+2441241,Not surveyed,Not surveyed,0,False,False,False
+2441733,Together,Together,0,False,True,True
+2441833,Together,Together,0,False,True,True
+2442527,Together,Together,0,False,True,True
+2443391,Together,Together,0,False,True,True
+2445513,Broke up,Together,1,False,True,True
+2445857,Together,Together,0,False,True,True
+2445989,Not surveyed,Not surveyed,0,False,False,False
+2445993,Not surveyed,Not surveyed,0,False,False,False
+2446617,Together,Together,0,False,True,True
+2446933,Together,Not surveyed,0,False,True,True
+2447595,Together,Together,0,False,True,True
+2449593,Together,Together,0,False,True,True
+2450505,Together,Not surveyed,0,False,True,True
+2450529,Together,Together,0,False,True,True
+2450675,Together,Together,0,False,True,True
+2450961,Not surveyed,Together,0,False,True,True
+2450987,Not surveyed,Not surveyed,0,False,False,False
+2451027,Together,Together,0,False,True,True
+2451319,Not surveyed,Not surveyed,0,False,False,False
+2451533,Partner died,Together,0,True,True,False
+2452097,Together,Together,0,False,True,True
+2453103,Together,Together,0,False,True,True
+2453829,Not surveyed,Partner died,0,True,True,False
+2453865,Partner died,Not surveyed,0,True,True,False
+2456191,Not surveyed,Not surveyed,0,False,False,False
+2456225,Together,Together,0,False,True,True
+2456301,Not surveyed,Not surveyed,0,False,False,False
+2456627,Not surveyed,Not surveyed,0,False,False,False
+2457661,Together,Not surveyed,0,False,True,True
+2458037,Together,Together,0,False,True,True
+2458389,Together,Together,0,False,True,True
+2458979,Together,Together,0,False,True,True
+2459357,Partner died,Together,0,True,True,False
+2460749,Together,Together,0,False,True,True
+2461283,Together,Together,0,False,True,True
+2461289,Together,Together,0,False,True,True
+2461333,Not surveyed,Not surveyed,0,False,False,False
+2462653,Broke up,Together,1,False,True,True
+2463691,Not surveyed,Not surveyed,0,False,False,False
+2464435,Not surveyed,Not surveyed,0,False,False,False
+2467543,Not surveyed,Not surveyed,0,False,False,False
+2468899,Together,Not surveyed,0,False,True,True
+2469031,Not surveyed,Not surveyed,0,False,False,False
+2472191,Broke up,Not surveyed,1,False,True,True
+2472319,Not surveyed,Not surveyed,0,False,False,False
+2473009,Together,Not surveyed,0,False,True,True
+2473159,Not surveyed,Not surveyed,0,False,False,False
+2473477,Not surveyed,Not surveyed,0,False,False,False
+2473595,Not surveyed,Not surveyed,0,False,False,False
+2473663,Together,Together,0,False,True,True
+2473823,Together,Together,0,False,True,True
+2473861,Broke up,Together,1,False,True,True
+2474241,Not surveyed,Not surveyed,0,False,False,False
+2477771,Not surveyed,Not surveyed,0,False,False,False
+2477939,Not surveyed,Not surveyed,0,False,False,False
+2478365,Together,Together,0,False,True,True
+2478473,Together,Together,0,False,True,True
+2478601,Together,Together,0,False,True,True
+2478637,Together,Together,0,False,True,True
+2480357,Together,Not surveyed,0,False,True,True
+2480385,Together,Together,0,False,True,True
+2480651,Not surveyed,Not surveyed,0,False,False,False
+2480765,Together,Broke up,1,False,True,True
+2482081,Not surveyed,Together,0,False,True,True
+2483431,Together,Together,0,False,True,True
+2483557,Together,Together,0,False,True,True
+2483835,Not surveyed,Not surveyed,0,False,False,False
+2483905,Broke up,Not surveyed,1,False,True,True
+2483979,Together,Together,0,False,True,True
+2484003,Together,Together,0,False,True,True
+2484025,Together,Not surveyed,0,False,True,True
+2485757,Together,Together,0,False,True,True
+2485815,Together,Together,0,False,True,True
+2486709,Together,Together,0,False,True,True
+2487145,Not surveyed,Not surveyed,0,False,False,False
+2487247,Partner died,Not surveyed,0,True,True,False
+2487865,Together,Not surveyed,0,False,True,True
+2488765,Not surveyed,Not surveyed,0,False,False,False
+2489613,Together,Together,0,False,True,True
+2489661,Together,Not surveyed,0,False,True,True
+2489663,Together,Not surveyed,0,False,True,True
+2492261,Broke up,Together,1,False,True,True
+2492327,Together,Not surveyed,0,False,True,True
+2493423,Broke up,Together,1,False,True,True
+2493475,Together,Together,0,False,True,True
+2493571,Not surveyed,Not surveyed,0,False,False,False
+2493771,Together,Together,0,False,True,True
+2493947,Together,Not surveyed,0,False,True,True
+2494315,Together,Together,0,False,True,True
+2494345,Together,Together,0,False,True,True
+2494349,Together,Not surveyed,0,False,True,True
+2494939,Not surveyed,Not surveyed,0,False,False,False
+2494941,Not surveyed,Not surveyed,0,False,False,False
+2497251,Together,Not surveyed,0,False,True,True
+2504621,Together,Together,0,False,True,True
+2504749,Together,Together,0,False,True,True
+2506415,Together,Together,0,False,True,True
+2507307,Together,Together,0,False,True,True
+2514125,Not surveyed,Not surveyed,0,False,False,False
+2514325,Not surveyed,Not surveyed,0,False,False,False
+2514723,Not surveyed,Together,0,False,True,True
+2515331,Not surveyed,Not surveyed,0,False,False,False
+2515925,Together,Together,0,False,True,True
+2516441,Broke up,Not surveyed,1,False,True,True
+2517709,Not surveyed,Not surveyed,0,False,False,False
+2518129,Not surveyed,Not surveyed,0,False,False,False
+2519453,Together,Together,0,False,True,True
+2520473,Broke up,Together,1,False,True,True
+2521249,Together,Not surveyed,0,False,True,True
+2528583,Together,Together,0,False,True,True
+2529305,Not surveyed,Not surveyed,0,False,False,False
+2529357,Not surveyed,Not surveyed,0,False,False,False
+2529385,Broke up,Together,1,False,True,True
+2530989,Together,Together,0,False,True,True
+2531367,Not surveyed,Not surveyed,0,False,False,False
+2531511,Together,Together,0,False,True,True
+2532635,Together,Not surveyed,0,False,True,True
+2532753,Together,Together,0,False,True,True
+2533085,Not surveyed,Not surveyed,0,False,False,False
+2533723,Together,Together,0,False,True,True
+2534545,Together,Not surveyed,0,False,True,True
+2535467,Together,Together,0,False,True,True
+2535477,Together,Together,0,False,True,True
+2536239,Not surveyed,Not surveyed,0,False,False,False
+2537029,Together,Together,0,False,True,True
+2537087,Together,Not surveyed,0,False,True,True
+2537095,Not surveyed,Not surveyed,0,False,False,False
+2548577,Not surveyed,Not surveyed,0,False,False,False
+2548877,Together,Not surveyed,0,False,True,True
+2549405,Not surveyed,Not surveyed,0,False,False,False
+2550825,Not surveyed,Not surveyed,0,False,False,False
+2550963,Together,Together,0,False,True,True
+2551603,Together,Together,0,False,True,True
+2551971,Together,Not surveyed,0,False,True,True
+2553107,Not surveyed,Not surveyed,0,False,False,False
+2553749,Together,Not surveyed,0,False,True,True
+2554257,Together,Together,0,False,True,True
+2555043,Together,Together,0,False,True,True
+2555287,Not surveyed,Not surveyed,0,False,False,False
+2555355,Together,Together,0,False,True,True
+2555455,Not surveyed,Not surveyed,0,False,False,False
+2555587,Not surveyed,Not surveyed,0,False,False,False
+2555605,Not surveyed,Together,0,False,True,True
+2555743,Together,Together,0,False,True,True
+2555771,Together,Not surveyed,0,False,True,True
+2556247,Not surveyed,Not surveyed,0,False,False,False
+2556407,Not surveyed,Together,0,False,True,True
+2557029,Not surveyed,Not surveyed,0,False,False,False
+2559365,Not surveyed,Not surveyed,0,False,False,False
+2559437,Not surveyed,Not surveyed,0,False,False,False
+2559479,Together,Together,0,False,True,True
+2560735,Together,Together,0,False,True,True
+2562183,Together,Together,0,False,True,True
+2562755,Not surveyed,Not surveyed,0,False,False,False
+2564383,Not surveyed,Not surveyed,0,False,False,False
+2564393,Together,Together,0,False,True,True
+2564781,Not surveyed,Not surveyed,0,False,False,False
+2564805,Together,Together,0,False,True,True
+2565397,Together,Together,0,False,True,True
+2567945,Together,Together,0,False,True,True
+2573527,Together,Together,0,False,True,True
+2573883,Not surveyed,Not surveyed,0,False,False,False
+2573919,Not surveyed,Not surveyed,0,False,False,False
+2575939,Not surveyed,Not surveyed,0,False,False,False
+2576171,Together,Together,0,False,True,True
+2578857,Not surveyed,Not surveyed,0,False,False,False
+2578951,Together,Together,0,False,True,True
+2579127,Not surveyed,Not surveyed,0,False,False,False
+2581275,Not surveyed,Not surveyed,0,False,False,False
+2581385,Not surveyed,Not surveyed,0,False,False,False
+2582069,Together,Together,0,False,True,True
+2582177,Together,Together,0,False,True,True
+2583199,Together,Together,0,False,True,True
+2583917,Not surveyed,Not surveyed,0,False,False,False
+2585023,Not surveyed,Not surveyed,0,False,False,False
+2585415,Not surveyed,Not surveyed,0,False,False,False
+2585983,Together,Together,0,False,True,True
+2586219,Not surveyed,Not surveyed,0,False,False,False
+2586225,Broke up,Together,1,False,True,True
+2586483,Not surveyed,Not surveyed,0,False,False,False
+2586655,Broke up,Together,1,False,True,True
+2586735,Broke up,Together,1,False,True,True
+2587161,Together,Together,0,False,True,True
+2587225,Broke up,Together,1,False,True,True
+2587317,Not surveyed,Not surveyed,0,False,False,False
+2587903,Together,Together,0,False,True,True
+2587915,Not surveyed,Not surveyed,0,False,False,False
+2588235,Together,Together,0,False,True,True
+2588415,Together,Together,0,False,True,True
+2589615,Together,Together,0,False,True,True
+2589765,Together,Not surveyed,0,False,True,True
+2590055,Together,Together,0,False,True,True
+2590127,Together,Together,0,False,True,True
+2590343,Together,Together,0,False,True,True
+2591515,Together,Together,0,False,True,True
+2594067,Not surveyed,Not surveyed,0,False,False,False
+2594173,Broke up,Together,1,False,True,True
+2594253,Not surveyed,Not surveyed,0,False,False,False
+2595771,Together,Together,0,False,True,True
+2595819,Together,Together,0,False,True,True
+2596813,Not surveyed,Not surveyed,0,False,False,False
+2598287,Not surveyed,Not surveyed,0,False,False,False
+2599119,Broke up,Together,1,False,True,True
+2599919,Not surveyed,Not surveyed,0,False,False,False
+2600761,Not surveyed,Not surveyed,0,False,False,False
+2600775,Together,Not surveyed,0,False,True,True
+2601241,Not surveyed,Not surveyed,0,False,False,False
+2601523,Not surveyed,Together,0,False,True,True
+2602081,Together,Not surveyed,0,False,True,True
+2602551,Not surveyed,Not surveyed,0,False,False,False
+2602801,Together,Together,0,False,True,True
+2603029,Together,Not surveyed,0,False,True,True
+2605123,Together,Together,0,False,True,True
+2605593,Broke up,Together,1,False,True,True
+2605985,Together,Not surveyed,0,False,True,True
+2606713,Not surveyed,Not surveyed,0,False,False,False
+2606759,Together,Together,0,False,True,True
+2607329,Together,Partner died,0,True,True,False
+2608147,Not surveyed,Not surveyed,0,False,False,False
+2611269,Together,Together,0,False,True,True
+2611417,Not surveyed,Not surveyed,0,False,False,False
+2613043,Together,Together,0,False,True,True
+2613965,Together,Together,0,False,True,True
+2614267,Partner died,Together,0,True,True,False
+2614657,Together,Together,0,False,True,True
+2615969,Not surveyed,Not surveyed,0,False,False,False
+2616203,Broke up,Not surveyed,1,False,True,True
+2616585,Broke up,Together,1,False,True,True
+2616805,Not surveyed,Not surveyed,0,False,False,False
+2616879,Together,Not surveyed,0,False,True,True
+2618039,Not surveyed,Not surveyed,0,False,False,False
+2619669,Not surveyed,Not surveyed,0,False,False,False
+2621759,Not surveyed,Not surveyed,0,False,False,False
+2622115,Broke up,Together,1,False,True,True
+2622417,Not surveyed,Not surveyed,0,False,False,False
+2623111,Not surveyed,Partner died,0,True,True,False
+2623465,Together,Not surveyed,0,False,True,True
+2623489,Together,Together,0,False,True,True
+2624033,Broke up,Not surveyed,1,False,True,True
+2624839,Together,Not surveyed,0,False,True,True
+2626745,Together,Together,0,False,True,True
+2627539,Not surveyed,Not surveyed,0,False,False,False
+2628133,Together,Not surveyed,0,False,True,True
+2629423,Broke up,Not surveyed,1,False,True,True
+2629427,Together,Together,0,False,True,True
+2629823,Together,Together,0,False,True,True
+2630171,Together,Together,0,False,True,True
+2630193,Together,Together,0,False,True,True
+2630381,Not surveyed,Not surveyed,0,False,False,False
+2630433,Not surveyed,Not surveyed,0,False,False,False
+2630463,Together,Together,0,False,True,True
+2630661,Not surveyed,Not surveyed,0,False,False,False
+2630805,Together,Together,0,False,True,True
+2631327,Not surveyed,Not surveyed,0,False,False,False
+2631631,Not surveyed,Not surveyed,0,False,False,False
+2632691,Not surveyed,Not surveyed,0,False,False,False
+2632835,Not surveyed,Not surveyed,0,False,False,False
+2633869,Not surveyed,Not surveyed,0,False,False,False
+2634077,Not surveyed,Not surveyed,0,False,False,False
+2634225,Together,Not surveyed,0,False,True,True
+2634927,Broke up,Together,1,False,True,True
+2634995,Together,Together,0,False,True,True
+2635055,Not surveyed,Partner died,0,True,True,False
+2635175,Not surveyed,Not surveyed,0,False,False,False
+2635321,Together,Together,0,False,True,True
+2636471,Together,Not surveyed,0,False,True,True
+2637675,Broke up,Together,1,False,True,True
+2638413,Not surveyed,Not surveyed,0,False,False,False
+2638587,Together,Together,0,False,True,True
+2638829,Together,Together,0,False,True,True
+2641119,Not surveyed,Not surveyed,0,False,False,False
+2641193,Together,Together,0,False,True,True
+2641485,Not surveyed,Not surveyed,0,False,False,False
+2641775,Not surveyed,Not surveyed,0,False,False,False
+2641849,Together,Together,0,False,True,True
+2642425,Together,Together,0,False,True,True
+2642483,Not surveyed,Not surveyed,0,False,False,False
+2642539,Not surveyed,Not surveyed,0,False,False,False
+2642837,Together,Not surveyed,0,False,True,True
+2642853,Not surveyed,Not surveyed,0,False,False,False
+2642961,Together,Together,0,False,True,True
+2643123,Together,Together,0,False,True,True
+2643307,Not surveyed,Not surveyed,0,False,False,False
+2643469,Not surveyed,Not surveyed,0,False,False,False
+2644371,Together,Together,0,False,True,True
+2644413,Broke up,Together,1,False,True,True
+2644459,Not surveyed,Not surveyed,0,False,False,False
+2644955,Not surveyed,Not surveyed,0,False,False,False
+2645153,Not surveyed,Not surveyed,0,False,False,False
+2645161,Together,Together,0,False,True,True
+2645965,Together,Together,0,False,True,True
+2645989,Not surveyed,Not surveyed,0,False,False,False
+2646867,Not surveyed,Not surveyed,0,False,False,False
+2646953,Together,Together,0,False,True,True
+2647841,Together,Together,0,False,True,True
+2648345,Not surveyed,Not surveyed,0,False,False,False
+2649415,Not surveyed,Together,0,False,True,True
+2649847,Together,Together,0,False,True,True
+2649947,Not surveyed,Not surveyed,0,False,False,False
+2652193,Together,Together,0,False,True,True
+2654369,Together,Together,0,False,True,True
+2654601,Not surveyed,Not surveyed,0,False,False,False
+2656077,Not surveyed,Not surveyed,0,False,False,False
+2656113,Together,Together,0,False,True,True
+2656603,Together,Together,0,False,True,True
+2656651,Together,Not surveyed,0,False,True,True
+2657733,Not surveyed,Not surveyed,0,False,False,False
+2657899,Not surveyed,Not surveyed,0,False,False,False
+2658259,Together,Together,0,False,True,True
+2658325,Together,Together,0,False,True,True
+2658787,Together,Together,0,False,True,True
+2658923,Together,Together,0,False,True,True
+2658989,Not surveyed,Not surveyed,0,False,False,False
+2658993,Together,Together,0,False,True,True
+2659451,Not surveyed,Not surveyed,0,False,False,False
+2661745,Not surveyed,Not surveyed,0,False,False,False
+2662603,Not surveyed,Broke up,1,False,True,True
+2663897,Together,Not surveyed,0,False,True,True
+2664605,Broke up,Together,1,False,True,True
+2664913,Together,Together,0,False,True,True
+2666671,Not surveyed,Not surveyed,0,False,False,False
+2668141,Not surveyed,Not surveyed,0,False,False,False
+2669515,Together,Together,0,False,True,True
+2673921,Together,Together,0,False,True,True
+2674243,Not surveyed,Not surveyed,0,False,False,False
+2674295,Broke up,Together,1,False,True,True
+2677293,Not surveyed,Not surveyed,0,False,False,False
+2677295,Not surveyed,Not surveyed,0,False,False,False
+2677369,Together,Broke up,1,False,True,True
+2678879,Together,Together,0,False,True,True
+2679207,Together,Together,0,False,True,True
+2679531,Together,Together,0,False,True,True
+2679887,Not surveyed,Not surveyed,0,False,False,False
+2680383,Not surveyed,Not surveyed,0,False,False,False
+2681949,Together,Together,0,False,True,True
+2682019,Together,Not surveyed,0,False,True,True
+2682197,Together,Not surveyed,0,False,True,True
+2682321,Together,Not surveyed,0,False,True,True
+2683473,Broke up,Together,1,False,True,True
+2684117,Together,Together,0,False,True,True
+2684457,Not surveyed,Not surveyed,0,False,False,False
+2686295,Together,Together,0,False,True,True
+2686395,Together,Together,0,False,True,True
+2686427,Together,Together,0,False,True,True
+2686627,Not surveyed,Not surveyed,0,False,False,False
+2686671,Broke up,Together,1,False,True,True
+2687117,Not surveyed,Not surveyed,0,False,False,False
+2687373,Together,Together,0,False,True,True
+2687569,Together,Not surveyed,0,False,True,True
+2688009,Together,Together,0,False,True,True
+2688469,Not surveyed,Not surveyed,0,False,False,False
+2688755,Together,Not surveyed,0,False,True,True
+2688777,Not surveyed,Not surveyed,0,False,False,False
+2689311,Broke up,Not surveyed,1,False,True,True
+2689423,Together,Together,0,False,True,True
+2689601,Together,Together,0,False,True,True
+2689701,Not surveyed,Not surveyed,0,False,False,False
+2689809,Together,Not surveyed,0,False,True,True
+2690979,Together,Together,0,False,True,True
+2693187,Not surveyed,Not surveyed,0,False,False,False
+2693307,Together,Together,0,False,True,True
+2693529,Not surveyed,Not surveyed,0,False,False,False
+2693845,Not surveyed,Not surveyed,0,False,False,False
+2694463,Not surveyed,Not surveyed,0,False,False,False
+2695689,Not surveyed,Not surveyed,0,False,False,False
+2695851,Together,Together,0,False,True,True
+2696891,Together,Together,0,False,True,True
+2697783,Not surveyed,Not surveyed,0,False,False,False
+2699043,Not surveyed,Not surveyed,0,False,False,False
+2699851,Together,Together,0,False,True,True
+2699919,Together,Together,0,False,True,True
+2700049,Together,Together,0,False,True,True
+2700309,Not surveyed,Not surveyed,0,False,False,False
+2700365,Not surveyed,Not surveyed,0,False,False,False
+2700411,Not surveyed,Not surveyed,0,False,False,False
+2700763,Together,Together,0,False,True,True
+2700937,Together,Together,0,False,True,True
+2701833,Together,Not surveyed,0,False,True,True
+2702437,Not surveyed,Not surveyed,0,False,False,False
+2702683,Together,Together,0,False,True,True
+2702941,Not surveyed,Not surveyed,0,False,False,False
+2702949,Together,Together,0,False,True,True
+2703381,Together,Not surveyed,0,False,True,True
+2705487,Not surveyed,Not surveyed,0,False,False,False
+2705963,Together,Together,0,False,True,True
+2710187,Not surveyed,Not surveyed,0,False,False,False
+2710813,Together,Together,0,False,True,True
+2712273,Together,Together,0,False,True,True
+2713609,Together,Together,0,False,True,True
+2714381,Together,Together,0,False,True,True
+2714641,Together,Not surveyed,0,False,True,True
+2714823,Together,Together,0,False,True,True
+2715565,Together,Not surveyed,0,False,True,True
+2717125,Partner died,Together,0,True,True,False
+2717509,Together,Together,0,False,True,True
+2718271,Not surveyed,Not surveyed,0,False,False,False
+2718429,Not surveyed,Not surveyed,0,False,False,False
+2718999,Together,Together,0,False,True,True
+2719995,Not surveyed,Not surveyed,0,False,False,False
+2720831,Not surveyed,Not surveyed,0,False,False,False
+2721277,Not surveyed,Not surveyed,0,False,False,False
+2721283,Together,Not surveyed,0,False,True,True
+2721323,Not surveyed,Together,0,False,True,True
+2721805,Not surveyed,Not surveyed,0,False,False,False
+2722059,Together,Together,0,False,True,True
+2722303,Together,Together,0,False,True,True
+2723459,Not surveyed,Not surveyed,0,False,False,False
+2723591,Broke up,Not surveyed,1,False,True,True
+2724951,Together,Together,0,False,True,True
+2727279,Not surveyed,Not surveyed,0,False,False,False
+2727931,Not surveyed,Not surveyed,0,False,False,False
+2729357,Together,Together,0,False,True,True
+2729509,Together,Not surveyed,0,False,True,True
+2729559,Together,Together,0,False,True,True
+2730029,Not surveyed,Not surveyed,0,False,False,False
+2730327,Together,Not surveyed,0,False,True,True
+2730655,Not surveyed,Not surveyed,0,False,False,False
+2731005,Together,Together,0,False,True,True
+2731747,Not surveyed,Not surveyed,0,False,False,False
+2731849,Together,Together,0,False,True,True
+2732527,Together,Not surveyed,0,False,True,True
+2732543,Together,Not surveyed,0,False,True,True
+2732731,Not surveyed,Not surveyed,0,False,False,False
+2733443,Together,Not surveyed,0,False,True,True
+2733771,Together,Together,0,False,True,True
+2735307,Together,Together,0,False,True,True
+2735321,Not surveyed,Not surveyed,0,False,False,False
+2735459,Not surveyed,Not surveyed,0,False,False,False
+2735541,Not surveyed,Not surveyed,0,False,False,False
+2735569,Together,Not surveyed,0,False,True,True
+2735809,Not surveyed,Broke up,1,False,True,True
+2736883,Together,Partner died,0,True,True,False
+2736977,Together,Together,0,False,True,True
+2737695,Together,Together,0,False,True,True
+2738737,Together,Together,0,False,True,True
+2739675,Together,Together,0,False,True,True
+2739923,Not surveyed,Not surveyed,0,False,False,False
+2740129,Together,Together,0,False,True,True
+2743895,Broke up,Not surveyed,1,False,True,True
+2744495,Together,Together,0,False,True,True
+2745065,Not surveyed,Not surveyed,0,False,False,False
+2745439,Not surveyed,Not surveyed,0,False,False,False
+2745493,Not surveyed,Not surveyed,0,False,False,False
+2746227,Together,Together,0,False,True,True
+2746583,Together,Together,0,False,True,True
+2746651,Together,Not surveyed,0,False,True,True
+2746819,Not surveyed,Not surveyed,0,False,False,False
+2747613,Not surveyed,Not surveyed,0,False,False,False
+2749859,Together,Together,0,False,True,True
+2750953,Together,Together,0,False,True,True
+2751707,Together,Together,0,False,True,True
+2752151,Not surveyed,Not surveyed,0,False,False,False
+2753941,Together,Together,0,False,True,True
+2754001,Together,Together,0,False,True,True
+2756929,Together,Together,0,False,True,True
+2756963,Not surveyed,Not surveyed,0,False,False,False
+2757001,Together,Together,0,False,True,True
+2757067,Together,Together,0,False,True,True
+2757595,Not surveyed,Together,0,False,True,True
+2757717,Together,Broke up,1,False,True,True
+2757823,Broke up,Together,1,False,True,True
+2759363,Together,Together,0,False,True,True
+2759605,Together,Together,0,False,True,True
+2760291,Together,Together,0,False,True,True
+2761467,Not surveyed,Not surveyed,0,False,False,False
+2761561,Together,Together,0,False,True,True
+2761583,Broke up,Together,1,False,True,True
+2761753,Together,Together,0,False,True,True
+2761957,Together,Not surveyed,0,False,True,True
+2762099,Together,Together,0,False,True,True
+2762123,Broke up,Not surveyed,1,False,True,True
+2762767,Together,Together,0,False,True,True
+2763005,Together,Together,0,False,True,True
+2763111,Broke up,Together,1,False,True,True
+2763861,Together,Together,0,False,True,True
+2764461,Broke up,Not surveyed,1,False,True,True
+2764623,Not surveyed,Not surveyed,0,False,False,False
+2764715,Not surveyed,Not surveyed,0,False,False,False
+2765175,Not surveyed,Not surveyed,0,False,False,False
+2765475,Not surveyed,Not surveyed,0,False,False,False
+2765643,Together,Together,0,False,True,True
+2765783,Together,Not surveyed,0,False,True,True
+2765841,Together,Together,0,False,True,True
+2765873,Not surveyed,Not surveyed,0,False,False,False
+2765923,Not surveyed,Not surveyed,0,False,False,False
+2766831,Not surveyed,Not surveyed,0,False,False,False
+2768845,Not surveyed,Not surveyed,0,False,False,False
+2769553,Partner died,Together,0,True,True,False
+2770011,Together,Together,0,False,True,True
+2770541,Together,Together,0,False,True,True
+2771905,Not surveyed,Not surveyed,0,False,False,False
+2771937,Not surveyed,Not surveyed,0,False,False,False
+2772035,Together,Not surveyed,0,False,True,True
+2772065,Together,Together,0,False,True,True
+2772309,Broke up,Together,1,False,True,True
+2772737,Together,Together,0,False,True,True
+2772747,Not surveyed,Not surveyed,0,False,False,False
+2773275,Not surveyed,Not surveyed,0,False,False,False
+2773791,Together,Not surveyed,0,False,True,True
+2773923,Not surveyed,Not surveyed,0,False,False,False
+2774941,Together,Together,0,False,True,True
+2775451,Together,Not surveyed,0,False,True,True
+2775521,Together,Together,0,False,True,True
+2775795,Together,Together,0,False,True,True
+2776043,Not surveyed,Together,0,False,True,True
+2776099,Not surveyed,Not surveyed,0,False,False,False
+2776317,Together,Together,0,False,True,True
+2776643,Together,Together,0,False,True,True
+2776651,Partner died,Not surveyed,0,True,True,False
+2776897,Not surveyed,Not surveyed,0,False,False,False
+2776977,Not surveyed,Not surveyed,0,False,False,False
+2777181,Together,Together,0,False,True,True
+2777453,Together,Together,0,False,True,True
+2777871,Not surveyed,Not surveyed,0,False,False,False
+2778243,Not surveyed,Not surveyed,0,False,False,False
+2779043,Together,Together,0,False,True,True
+2779987,Together,Together,0,False,True,True
+2780193,Not surveyed,Not surveyed,0,False,False,False
+2780785,Together,Together,0,False,True,True
+2781391,Together,Together,0,False,True,True
+2781847,Not surveyed,Not surveyed,0,False,False,False
+2781959,Not surveyed,Not surveyed,0,False,False,False
+2781985,Not surveyed,Not surveyed,0,False,False,False
+2782309,Together,Together,0,False,True,True
+2782345,Not surveyed,Not surveyed,0,False,False,False
+2783089,Not surveyed,Not surveyed,0,False,False,False
+2783093,Together,Not surveyed,0,False,True,True
+2783229,Together,Together,0,False,True,True
+2784795,Not surveyed,Not surveyed,0,False,False,False
+2784823,Together,Not surveyed,0,False,True,True
+2785051,Not surveyed,Not surveyed,0,False,False,False
+2785079,Together,Together,0,False,True,True
+2785821,Together,Not surveyed,0,False,True,True
+2785857,Together,Together,0,False,True,True
+2786595,Together,Together,0,False,True,True
+2787017,Not surveyed,Not surveyed,0,False,False,False
+2787147,Not surveyed,Not surveyed,0,False,False,False
+2787171,Not surveyed,Not surveyed,0,False,False,False
+2787303,Broke up,Not surveyed,1,False,True,True
+2787807,Not surveyed,Not surveyed,0,False,False,False
+2788261,Together,Together,0,False,True,True
+2788669,Not surveyed,Not surveyed,0,False,False,False
+2789257,Not surveyed,Not surveyed,0,False,False,False
+2789327,Together,Together,0,False,True,True
+2790067,Not surveyed,Not surveyed,0,False,False,False
+2793267,Together,Together,0,False,True,True
+2793291,Partner died,Not surveyed,0,True,True,False
+2793629,Not surveyed,Not surveyed,0,False,False,False
+2795725,Not surveyed,Not surveyed,0,False,False,False
+2796591,Not surveyed,Not surveyed,0,False,False,False
+2796929,Not surveyed,Not surveyed,0,False,False,False
+2797047,Together,Not surveyed,0,False,True,True
+2797135,Together,Together,0,False,True,True
+2797195,Not surveyed,Not surveyed,0,False,False,False
+2797473,Not surveyed,Not surveyed,0,False,False,False
+2797503,Not surveyed,Not surveyed,0,False,False,False
+2797729,Broke up,Together,1,False,True,True
+2797851,Not surveyed,Not surveyed,0,False,False,False
+2798559,Not surveyed,Not surveyed,0,False,False,False
+2798601,Together,Not surveyed,0,False,True,True
+2800773,Not surveyed,Not surveyed,0,False,False,False
+2800809,Together,Not surveyed,0,False,True,True
+2801077,Together,Together,0,False,True,True
+2801097,Not surveyed,Not surveyed,0,False,False,False
+2801837,Not surveyed,Not surveyed,0,False,False,False
+2801891,Not surveyed,Not surveyed,0,False,False,False
+2802195,Broke up,Not surveyed,1,False,True,True
+2802671,Not surveyed,Not surveyed,0,False,False,False
+2803083,Not surveyed,Not surveyed,0,False,False,False
+2804089,Together,Together,0,False,True,True
+2806869,Not surveyed,Not surveyed,0,False,False,False
+2806931,Together,Not surveyed,0,False,True,True
+2807193,Together,Together,0,False,True,True
+2807337,Together,Together,0,False,True,True
+2807523,Together,Together,0,False,True,True
+2807763,Not surveyed,Not surveyed,0,False,False,False
+2808119,Together,Not surveyed,0,False,True,True
+2808315,Not surveyed,Not surveyed,0,False,False,False
+2808325,Together,Together,0,False,True,True
+2808641,Together,Together,0,False,True,True
+2808751,Together,Not surveyed,0,False,True,True
+2808887,Not surveyed,Together,0,False,True,True
+2808983,Not surveyed,Not surveyed,0,False,False,False
+2809201,Partner died,Not surveyed,0,True,True,False
+2809787,Together,Together,0,False,True,True
+2810675,Not surveyed,Not surveyed,0,False,False,False
+2810979,Together,Together,0,False,True,True
+2812649,Not surveyed,Not surveyed,0,False,False,False
+2813131,Broke up,Together,1,False,True,True
+2813719,Broke up,Together,1,False,True,True
+2813935,Together,Together,0,False,True,True
+2814059,Together,Together,0,False,True,True
+2815685,Together,Together,0,False,True,True
+2815891,Together,Not surveyed,0,False,True,True
+2816581,Not surveyed,Not surveyed,0,False,False,False
+2816657,Not surveyed,Not surveyed,0,False,False,False
+2816707,Together,Not surveyed,0,False,True,True
+2816715,Together,Together,0,False,True,True
+2816827,Not surveyed,Not surveyed,0,False,False,False
+2817287,Broke up,Together,1,False,True,True
+2817335,Not surveyed,Not surveyed,0,False,False,False
+2817849,Together,Together,0,False,True,True
+2819685,Not surveyed,Not surveyed,0,False,False,False
+2821129,Together,Together,0,False,True,True
+2822069,Not surveyed,Not surveyed,0,False,False,False
+2822113,Broke up,Together,1,False,True,True
+2822245,Together,Not surveyed,0,False,True,True
+2822251,Together,Together,0,False,True,True
+2822461,Together,Not surveyed,0,False,True,True
+2822657,Not surveyed,Not surveyed,0,False,False,False
+2823593,Not surveyed,Not surveyed,0,False,False,False
+2823999,Not surveyed,Not surveyed,0,False,False,False
+2824007,Not surveyed,Not surveyed,0,False,False,False
+2824295,Broke up,Not surveyed,1,False,True,True
+2824559,Broke up,Together,1,False,True,True
+2824731,Not surveyed,Together,0,False,True,True
+2824751,Not surveyed,Not surveyed,0,False,False,False
+2825037,Not surveyed,Not surveyed,0,False,False,False
+2825279,Not surveyed,Not surveyed,0,False,False,False
+2825713,Not surveyed,Not surveyed,0,False,False,False
+2826185,Together,Together,0,False,True,True
+2826571,Not surveyed,Not surveyed,0,False,False,False
+2826895,Not surveyed,Not surveyed,0,False,False,False
+2826901,Together,Together,0,False,True,True
+2827615,Broke up,Together,1,False,True,True
+2828213,Not surveyed,Not surveyed,0,False,False,False
+2828325,Not surveyed,Not surveyed,0,False,False,False
+2828467,Not surveyed,Not surveyed,0,False,False,False
+2829273,Together,Together,0,False,True,True
+2829353,Not surveyed,Not surveyed,0,False,False,False
+2829661,Together,Together,0,False,True,True
+2830889,Broke up,Not surveyed,1,False,True,True
+2832199,Broke up,Together,1,False,True,True
+2832409,Not surveyed,Not surveyed,0,False,False,False
+2832523,Together,Not surveyed,0,False,True,True
+2832811,Together,Together,0,False,True,True
+2832919,Not surveyed,Not surveyed,0,False,False,False
+2834569,Broke up,Not surveyed,1,False,True,True
+2835239,Not surveyed,Not surveyed,0,False,False,False
+2835269,Broke up,Together,1,False,True,True
+2835507,Not surveyed,Together,0,False,True,True
+2835615,Together,Not surveyed,0,False,True,True
+2835673,Not surveyed,Not surveyed,0,False,False,False
+2835917,Not surveyed,Not surveyed,0,False,False,False
+2836091,Together,Not surveyed,0,False,True,True
+2836757,Not surveyed,Not surveyed,0,False,False,False
+2836833,Together,Together,0,False,True,True
+2837097,Not surveyed,Not surveyed,0,False,False,False
+2838251,Together,Together,0,False,True,True
+2838417,Partner died,Together,0,True,True,False
+2838801,Together,Together,0,False,True,True
+2838827,Not surveyed,Not surveyed,0,False,False,False
+2839127,Together,Together,0,False,True,True
+2839181,Together,Together,0,False,True,True
+2839429,Not surveyed,Not surveyed,0,False,False,False
+2839769,Not surveyed,Not surveyed,0,False,False,False
+2839815,Together,Together,0,False,True,True
+2839825,Not surveyed,Not surveyed,0,False,False,False
+2840101,Not surveyed,Not surveyed,0,False,False,False
+2840173,Together,Together,0,False,True,True
+2840229,Not surveyed,Not surveyed,0,False,False,False
+2840961,Not surveyed,Not surveyed,0,False,False,False
+2841483,Not surveyed,Not surveyed,0,False,False,False
+2841519,Not surveyed,Not surveyed,0,False,False,False
+2841833,Broke up,Together,1,False,True,True
+2842301,Together,Together,0,False,True,True
+2842485,Together,Together,0,False,True,True
+2842843,Together,Together,0,False,True,True
+2842885,Not surveyed,Not surveyed,0,False,False,False
+2843515,Together,Together,0,False,True,True
+2843707,Not surveyed,Not surveyed,0,False,False,False
+2844249,Not surveyed,Not surveyed,0,False,False,False
+2844419,Together,Together,0,False,True,True
+2844537,Together,Not surveyed,0,False,True,True
+2845201,Together,Together,0,False,True,True
+2845281,Not surveyed,Not surveyed,0,False,False,False
+2845837,Together,Together,0,False,True,True
+2845847,Together,Together,0,False,True,True
+2846523,Together,Not surveyed,0,False,True,True
+2846681,Together,Together,0,False,True,True
+2846721,Together,Together,0,False,True,True
+2847509,Not surveyed,Not surveyed,0,False,False,False
+2847517,Together,Not surveyed,0,False,True,True
+2847567,Not surveyed,Not surveyed,0,False,False,False
+2847803,Not surveyed,Not surveyed,0,False,False,False
+2847813,Not surveyed,Not surveyed,0,False,False,False
+2848549,Not surveyed,Not surveyed,0,False,False,False
+2848637,Not surveyed,Not surveyed,0,False,False,False
+2848693,Not surveyed,Not surveyed,0,False,False,False
+2848711,Not surveyed,Not surveyed,0,False,False,False
+2848719,Not surveyed,Not surveyed,0,False,False,False
+2849189,Together,Together,0,False,True,True
+2849977,Together,Together,0,False,True,True
+2850177,Together,Together,0,False,True,True
+2850981,Not surveyed,Not surveyed,0,False,False,False
+2851181,Not surveyed,Not surveyed,0,False,False,False
+2851205,Not surveyed,Not surveyed,0,False,False,False
+2851225,Not surveyed,Not surveyed,0,False,False,False
+2851445,Together,Together,0,False,True,True
+2851955,Not surveyed,Not surveyed,0,False,False,False
+2852145,Not surveyed,Not surveyed,0,False,False,False
+2853113,Broke up,Together,1,False,True,True
+2853155,Not surveyed,Not surveyed,0,False,False,False
+2853169,Not surveyed,Not surveyed,0,False,False,False
+2853477,Together,Together,0,False,True,True
+2853705,Not surveyed,Not surveyed,0,False,False,False
+2853717,Together,Together,0,False,True,True
+2853837,Together,Together,0,False,True,True
+2854003,Not surveyed,Not surveyed,0,False,False,False
+2854019,Not surveyed,Not surveyed,0,False,False,False
+2854455,Together,Together,0,False,True,True
+2854677,Together,Together,0,False,True,True
+2854889,Together,Together,0,False,True,True
+2854953,Together,Together,0,False,True,True
+2855333,Together,Together,0,False,True,True
+2855435,Together,Together,0,False,True,True
+2855529,Not surveyed,Not surveyed,0,False,False,False
+2855749,Not surveyed,Not surveyed,0,False,False,False
+2855973,Not surveyed,Not surveyed,0,False,False,False
+2856247,Together,Together,0,False,True,True
+2856709,Broke up,Not surveyed,1,False,True,True
+2856805,Together,Not surveyed,0,False,True,True
+2856907,Together,Together,0,False,True,True
+2857095,Together,Together,0,False,True,True
+2857501,Not surveyed,Together,0,False,True,True
+2857579,Together,Together,0,False,True,True
+2858257,Not surveyed,Not surveyed,0,False,False,False
+2858443,Together,Together,0,False,True,True
+2858839,Broke up,Not surveyed,1,False,True,True
+2859539,Together,Together,0,False,True,True
+2860213,Together,Not surveyed,0,False,True,True
+2860697,Together,Together,0,False,True,True
+2860929,Not surveyed,Not surveyed,0,False,False,False
+2861279,Not surveyed,Not surveyed,0,False,False,False
+2861297,Not surveyed,Not surveyed,0,False,False,False
+2862329,Together,Not surveyed,0,False,True,True
+2862597,Broke up,Together,1,False,True,True
+2862779,Together,Together,0,False,True,True
+2863277,Not surveyed,Not surveyed,0,False,False,False
+2863361,Not surveyed,Not surveyed,0,False,False,False
+2863675,Not surveyed,Not surveyed,0,False,False,False
+2863755,Not surveyed,Not surveyed,0,False,False,False
+2865145,Not surveyed,Not surveyed,0,False,False,False
+2865863,Not surveyed,Not surveyed,0,False,False,False
+2865895,Together,Not surveyed,0,False,True,True
+2865915,Together,Not surveyed,0,False,True,True
+2866103,Together,Together,0,False,True,True
+2866123,Together,Not surveyed,0,False,True,True
+2866157,Not surveyed,Not surveyed,0,False,False,False
+2866203,Together,Together,0,False,True,True
+2866293,Together,Together,0,False,True,True
+2866363,Not surveyed,Not surveyed,0,False,False,False
+2866425,Not surveyed,Not surveyed,0,False,False,False
+2866437,Not surveyed,Not surveyed,0,False,False,False
+2866853,Not surveyed,Not surveyed,0,False,False,False
+2866863,Not surveyed,Not surveyed,0,False,False,False
+2867201,Not surveyed,Not surveyed,0,False,False,False
+2867451,Not surveyed,Not surveyed,0,False,False,False
+2867703,Not surveyed,Not surveyed,0,False,False,False
+2867853,Not surveyed,Not surveyed,0,False,False,False
+2867911,Together,Together,0,False,True,True
+2868501,Together,Together,0,False,True,True
+2868523,Together,Together,0,False,True,True
+2869139,Not surveyed,Not surveyed,0,False,False,False
+2869191,Not surveyed,Broke up,1,False,True,True
+2869889,Together,Not surveyed,0,False,True,True
+2870039,Not surveyed,Not surveyed,0,False,False,False
+2870179,Together,Together,0,False,True,True
+2870231,Together,Not surveyed,0,False,True,True
+2870711,Together,Together,0,False,True,True
+2871183,Together,Not surveyed,0,False,True,True
+2871195,Not surveyed,Not surveyed,0,False,False,False
+2871451,Not surveyed,Not surveyed,0,False,False,False
+2871731,Not surveyed,Not surveyed,0,False,False,False
+2871939,Together,Together,0,False,True,True
+2871973,Not surveyed,Not surveyed,0,False,False,False
+2872683,Together,Not surveyed,0,False,True,True
+2874061,Not surveyed,Not surveyed,0,False,False,False
+2874161,Not surveyed,Together,0,False,True,True
+2875437,Not surveyed,Not surveyed,0,False,False,False
+2875861,Broke up,Together,1,False,True,True
+2875963,Not surveyed,Not surveyed,0,False,False,False
+2875975,Together,Together,0,False,True,True
+2876231,Together,Together,0,False,True,True
+2877799,Together,Not surveyed,0,False,True,True
+2880739,Together,Together,0,False,True,True
+2880741,Not surveyed,Not surveyed,0,False,False,False
+2880791,Not surveyed,Not surveyed,0,False,False,False
+2880955,Not surveyed,Not surveyed,0,False,False,False
+2881289,Not surveyed,Not surveyed,0,False,False,False
+2881397,Not surveyed,Not surveyed,0,False,False,False
+2881839,Not surveyed,Not surveyed,0,False,False,False
+2881913,Together,Not surveyed,0,False,True,True
+2881945,Not surveyed,Not surveyed,0,False,False,False
+2881997,Together,Not surveyed,0,False,True,True
+2882059,Together,Together,0,False,True,True
+2882207,Together,Together,0,False,True,True
+2882331,Together,Not surveyed,0,False,True,True
+2882659,Not surveyed,Not surveyed,0,False,False,False
+2882861,Together,Together,0,False,True,True
+2883019,Together,Together,0,False,True,True
+2883119,Not surveyed,Not surveyed,0,False,False,False
+2883339,Together,Not surveyed,0,False,True,True
+2883551,Not surveyed,Not surveyed,0,False,False,False
+2883553,Not surveyed,Not surveyed,0,False,False,False
+2884323,Not surveyed,Not surveyed,0,False,False,False
+2884461,Not surveyed,Not surveyed,0,False,False,False
+2884717,Not surveyed,Not surveyed,0,False,False,False
+2885433,Broke up,Not surveyed,1,False,True,True
+2885839,Not surveyed,Not surveyed,0,False,False,False
+2886159,Not surveyed,Together,0,False,True,True
+2886305,Not surveyed,Not surveyed,0,False,False,False
+2886331,Not surveyed,Not surveyed,0,False,False,False
+2886857,Not surveyed,Not surveyed,0,False,False,False
+2886943,Together,Broke up,1,False,True,True
+2887309,Not surveyed,Not surveyed,0,False,False,False
+2887517,Together,Together,0,False,True,True
+2887677,Not surveyed,Not surveyed,0,False,False,False
+2888089,Together,Together,0,False,True,True
+2888101,Together,Not surveyed,0,False,True,True
+2888131,Not surveyed,Not surveyed,0,False,False,False
+2888261,Not surveyed,Not surveyed,0,False,False,False
+2888509,Together,Not surveyed,0,False,True,True
+2889319,Not surveyed,Not surveyed,0,False,False,False
+2889595,Together,Together,0,False,True,True
+2889625,Not surveyed,Not surveyed,0,False,False,False
+2889689,Not surveyed,Not surveyed,0,False,False,False
+2889715,Not surveyed,Not surveyed,0,False,False,False
+2890551,Not surveyed,Not surveyed,0,False,False,False
+2890819,Broke up,Together,1,False,True,True
+2891279,Together,Not surveyed,0,False,True,True
+2892085,Not surveyed,Not surveyed,0,False,False,False
+2892311,Not surveyed,Not surveyed,0,False,False,False
+2893031,Not surveyed,Not surveyed,0,False,False,False
+2893053,Together,Together,0,False,True,True
+2893063,Not surveyed,Not surveyed,0,False,False,False
+2893069,Not surveyed,Not surveyed,0,False,False,False
+2893071,Together,Together,0,False,True,True
+2893127,Not surveyed,Not surveyed,0,False,False,False
+2893229,Together,Together,0,False,True,True
+2893839,Broke up,Together,1,False,True,True
+2894561,Together,Broke up,1,False,True,True
+2894723,Not surveyed,Not surveyed,0,False,False,False
+2894963,Not surveyed,Not surveyed,0,False,False,False
+2894983,Not surveyed,Not surveyed,0,False,False,False
+2895123,Together,Not surveyed,0,False,True,True
+2897149,Not surveyed,Not surveyed,0,False,False,False
+2897303,Together,Together,0,False,True,True
+2897763,Not surveyed,Not surveyed,0,False,False,False
+2897783,Not surveyed,Not surveyed,0,False,False,False
+2898351,Together,Partner died,0,True,True,False
+2898559,Together,Together,0,False,True,True
+2899105,Not surveyed,Not surveyed,0,False,False,False
+2899131,Not surveyed,Not surveyed,0,False,False,False
+2899293,Together,Together,0,False,True,True
+2899485,Together,Not surveyed,0,False,True,True
+2900163,Not surveyed,Not surveyed,0,False,False,False
+2900177,Together,Not surveyed,0,False,True,True
+2900187,Together,Together,0,False,True,True
+2900293,Broke up,Not surveyed,1,False,True,True
+2900313,Together,Not surveyed,0,False,True,True
+2900705,Not surveyed,Not surveyed,0,False,False,False
+2901711,Together,Not surveyed,0,False,True,True
+2905009,Together,Together,0,False,True,True
+2905035,Together,Together,0,False,True,True
+2905249,Together,Not surveyed,0,False,True,True
+2905375,Not surveyed,Not surveyed,0,False,False,False
+2905519,Not surveyed,Not surveyed,0,False,False,False
+2905651,Not surveyed,Not surveyed,0,False,False,False
+2906389,Not surveyed,Not surveyed,0,False,False,False
+2906511,Not surveyed,Not surveyed,0,False,False,False
+2906689,Together,Not surveyed,0,False,True,True
+2906847,Not surveyed,Not surveyed,0,False,False,False
+2906911,Not surveyed,Not surveyed,0,False,False,False
+2907517,Not surveyed,Not surveyed,0,False,False,False
+2907659,Together,Not surveyed,0,False,True,True
+2908077,Not surveyed,Not surveyed,0,False,False,False
+2908131,Together,Together,0,False,True,True
+2908209,Not surveyed,Not surveyed,0,False,False,False
+2908239,Not surveyed,Not surveyed,0,False,False,False
+2909003,Together,Not surveyed,0,False,True,True
+2909343,Together,Together,0,False,True,True
+2909471,Not surveyed,Not surveyed,0,False,False,False
+2910231,Together,Together,0,False,True,True
+2910257,Not surveyed,Not surveyed,0,False,False,False
+2910409,Not surveyed,Not surveyed,0,False,False,False
+2910791,Broke up,Together,1,False,True,True
+2910943,Together,Together,0,False,True,True
+2911013,Not surveyed,Not surveyed,0,False,False,False
+2911031,Not surveyed,Not surveyed,0,False,False,False
+2911331,Together,Together,0,False,True,True
+2911425,Not surveyed,Not surveyed,0,False,False,False
+2912003,Not surveyed,Not surveyed,0,False,False,False
+2912135,Together,Together,0,False,True,True
+2912321,Not surveyed,Not surveyed,0,False,False,False
+2912343,Not surveyed,Not surveyed,0,False,False,False
+2912503,Together,Together,0,False,True,True
+2912529,Not surveyed,Not surveyed,0,False,False,False
+2912807,Not surveyed,Not surveyed,0,False,False,False
+2912933,Not surveyed,Not surveyed,0,False,False,False
+2912943,Not surveyed,Not surveyed,0,False,False,False
+2913099,Not surveyed,Not surveyed,0,False,False,False
+2913297,Not surveyed,Not surveyed,0,False,False,False
+2913299,Not surveyed,Not surveyed,0,False,False,False
+2913301,Not surveyed,Not surveyed,0,False,False,False
+2913317,Together,Not surveyed,0,False,True,True
+2913381,Not surveyed,Not surveyed,0,False,False,False
+2913783,Not surveyed,Not surveyed,0,False,False,False
+2914073,Together,Together,0,False,True,True
+2914079,Not surveyed,Not surveyed,0,False,False,False
+2914097,Not surveyed,Not surveyed,0,False,False,False
+2914149,Together,Together,0,False,True,True
+2914325,Together,Not surveyed,0,False,True,True
+2914565,Not surveyed,Not surveyed,0,False,False,False
+2914675,Not surveyed,Not surveyed,0,False,False,False
+2914837,Not surveyed,Not surveyed,0,False,False,False
+2915173,Not surveyed,Not surveyed,0,False,False,False
+2915681,Not surveyed,Not surveyed,0,False,False,False
+2916373,Not surveyed,Not surveyed,0,False,False,False
+2916479,Broke up,Together,1,False,True,True
+2916527,Broke up,Together,1,False,True,True
+2917189,Together,Together,0,False,True,True
+2917379,Not surveyed,Not surveyed,0,False,False,False
+2917523,Together,Together,0,False,True,True
+2917529,Not surveyed,Not surveyed,0,False,False,False
+2917535,Together,Not surveyed,0,False,True,True
+2917683,Not surveyed,Not surveyed,0,False,False,False
+2918241,Not surveyed,Not surveyed,0,False,False,False
+2918247,Not surveyed,Not surveyed,0,False,False,False
+2918379,Not surveyed,Not surveyed,0,False,False,False
+2918507,Not surveyed,Not surveyed,0,False,False,False
+2918633,Not surveyed,Not surveyed,0,False,False,False
+2919299,Not surveyed,Not surveyed,0,False,False,False
+2919423,Not surveyed,Not surveyed,0,False,False,False
+2919461,Not surveyed,Not surveyed,0,False,False,False
+2920603,Together,Not surveyed,0,False,True,True
+2920753,Not surveyed,Not surveyed,0,False,False,False
+2920831,Together,Not surveyed,0,False,True,True
+2920967,Not surveyed,Not surveyed,0,False,False,False
+2921297,Not surveyed,Not surveyed,0,False,False,False
+2921353,Not surveyed,Not surveyed,0,False,False,False
+2921407,Not surveyed,Not surveyed,0,False,False,False
+2921575,Not surveyed,Not surveyed,0,False,False,False
+2921897,Not surveyed,Not surveyed,0,False,False,False
+2921913,Broke up,Not surveyed,1,False,True,True
+2922001,Not surveyed,Not surveyed,0,False,False,False
+2922343,Not surveyed,Not surveyed,0,False,False,False
+2922439,Not surveyed,Not surveyed,0,False,False,False
+2922533,Together,Not surveyed,0,False,True,True
+2922615,Together,Together,0,False,True,True
+2922621,Together,Not surveyed,0,False,True,True
+2922771,Together,Not surveyed,0,False,True,True
+2922895,Together,Not surveyed,0,False,True,True
+2923177,Not surveyed,Not surveyed,0,False,False,False
+2923211,Together,Together,0,False,True,True
+2923443,Not surveyed,Not surveyed,0,False,False,False
+2923673,Not surveyed,Not surveyed,0,False,False,False
+2924057,Together,Together,0,False,True,True
+2924683,Not surveyed,Not surveyed,0,False,False,False
+2924761,Not surveyed,Not surveyed,0,False,False,False
+2925115,Not surveyed,Not surveyed,0,False,False,False
+2925421,Not surveyed,Not surveyed,0,False,False,False
+2925649,Not surveyed,Not surveyed,0,False,False,False
+2926105,Not surveyed,Broke up,1,False,True,True
+2926275,Not surveyed,Not surveyed,0,False,False,False
+2926595,Together,Together,0,False,True,True
+2926879,Broke up,Not surveyed,1,False,True,True
+2926919,Together,Together,0,False,True,True
+2926977,Together,Not surveyed,0,False,True,True
+2927695,Not surveyed,Not surveyed,0,False,False,False
+2928177,Not surveyed,Not surveyed,0,False,False,False
+2928317,Together,Together,0,False,True,True
+2928617,Together,Not surveyed,0,False,True,True
+2928909,Not surveyed,Not surveyed,0,False,False,False
+2929349,Partner died,Together,0,True,True,False
+2929765,Together,Together,0,False,True,True
+2929809,Not surveyed,Not surveyed,0,False,False,False
+2929957,Together,Together,0,False,True,True
+2929979,Not surveyed,Not surveyed,0,False,False,False
+2930187,Together,Not surveyed,0,False,True,True
+2930211,Together,Together,0,False,True,True
+2930255,Together,Together,0,False,True,True
+2930383,Together,Together,0,False,True,True
+2930459,Together,Not surveyed,0,False,True,True
+2930471,Not surveyed,Not surveyed,0,False,False,False
+2930731,Together,Not surveyed,0,False,True,True
+2930787,Together,Not surveyed,0,False,True,True
+2931049,Not surveyed,Not surveyed,0,False,False,False
+2931473,Not surveyed,Not surveyed,0,False,False,False
+2932087,Not surveyed,Not surveyed,0,False,False,False
+2932129,Not surveyed,Not surveyed,0,False,False,False
+2932429,Together,Not surveyed,0,False,True,True
+2932727,Together,Together,0,False,True,True
+2932761,Not surveyed,Not surveyed,0,False,False,False
+2933017,Not surveyed,Not surveyed,0,False,False,False
+2933033,Together,Together,0,False,True,True
+2933065,Not surveyed,Not surveyed,0,False,False,False
+2933093,Not surveyed,Not surveyed,0,False,False,False
+2933121,Not surveyed,Not surveyed,0,False,False,False
+2933125,Not surveyed,Not surveyed,0,False,False,False
+2934185,Not surveyed,Not surveyed,0,False,False,False
+2934239,Not surveyed,Not surveyed,0,False,False,False
+2934277,Broke up,Together,1,False,True,True
+2934313,Together,Together,0,False,True,True
+2934847,Not surveyed,Not surveyed,0,False,False,False
+2935093,Not surveyed,Not surveyed,0,False,False,False
+2935335,Not surveyed,Not surveyed,0,False,False,False
+2935355,Not surveyed,Not surveyed,0,False,False,False
+2935695,Together,Not surveyed,0,False,True,True
+2935811,Not surveyed,Not surveyed,0,False,False,False
+2935883,Together,Not surveyed,0,False,True,True
+2936569,Not surveyed,Not surveyed,0,False,False,False
+2936949,Not surveyed,Not surveyed,0,False,False,False
+2937397,Not surveyed,Not surveyed,0,False,False,False
+2937463,Together,Not surveyed,0,False,True,True
+2937523,Not surveyed,Not surveyed,0,False,False,False
+2937599,Not surveyed,Not surveyed,0,False,False,False
+2937661,Not surveyed,Not surveyed,0,False,False,False
+2937667,Not surveyed,Not surveyed,0,False,False,False
+2938551,Not surveyed,Not surveyed,0,False,False,False
+2938825,Not surveyed,Not surveyed,0,False,False,False
+2939367,Not surveyed,Not surveyed,0,False,False,False
+2940021,Not surveyed,Not surveyed,0,False,False,False
+2940393,Not surveyed,Not surveyed,0,False,False,False
+2940479,Not surveyed,Not surveyed,0,False,False,False
+2940627,Not surveyed,Not surveyed,0,False,False,False
+2941025,Not surveyed,Not surveyed,0,False,False,False
+2941483,Not surveyed,Not surveyed,0,False,False,False
+2941515,Not surveyed,Not surveyed,0,False,False,False
+2941829,Not surveyed,Not surveyed,0,False,False,False
+2941885,Not surveyed,Not surveyed,0,False,False,False
+2941903,Not surveyed,Not surveyed,0,False,False,False
+2941969,Not surveyed,Not surveyed,0,False,False,False
+2942175,Not surveyed,Not surveyed,0,False,False,False
+2942253,Together,Together,0,False,True,True
+2942273,Not surveyed,Not surveyed,0,False,False,False
+2942295,Not surveyed,Not surveyed,0,False,False,False
+2942317,Not surveyed,Not surveyed,0,False,False,False
+2942339,Not surveyed,Not surveyed,0,False,False,False
+2942361,Broke up,Not surveyed,1,False,True,True
+2942423,Not surveyed,Together,0,False,True,True
+2942729,Together,Together,0,False,True,True
+2942743,Together,Together,0,False,True,True
+2942775,Broke up,Not surveyed,1,False,True,True
+2943301,Together,Together,0,False,True,True
+2943311,Together,Together,0,False,True,True
+2943489,Not surveyed,Not surveyed,0,False,False,False
+2943515,Not surveyed,Not surveyed,0,False,False,False
+2943593,Not surveyed,Together,0,False,True,True
+2943697,Together,Together,0,False,True,True
+2943873,Not surveyed,Not surveyed,0,False,False,False
+2943881,Not surveyed,Not surveyed,0,False,False,False
+2943885,Not surveyed,Not surveyed,0,False,False,False
+2944411,Not surveyed,Not surveyed,0,False,False,False
+2944519,Not surveyed,Not surveyed,0,False,False,False
+2944557,Not surveyed,Not surveyed,0,False,False,False
+2944571,Not surveyed,Not surveyed,0,False,False,False
+2944663,Not surveyed,Not surveyed,0,False,False,False
+2945109,Not surveyed,Not surveyed,0,False,False,False
+2945229,Not surveyed,Not surveyed,0,False,False,False
+2945243,Together,Partner died,0,True,True,False
+2945353,Together,Together,0,False,True,True
+2945721,Not surveyed,Not surveyed,0,False,False,False
+2945785,Not surveyed,Not surveyed,0,False,False,False
+2946203,Together,Not surveyed,0,False,True,True
+2946347,Together,Together,0,False,True,True
+2946547,Not surveyed,Not surveyed,0,False,False,False
+2946817,Not surveyed,Not surveyed,0,False,False,False
+2946841,Not surveyed,Not surveyed,0,False,False,False
+2946955,Not surveyed,Not surveyed,0,False,False,False
+2947013,Not surveyed,Not surveyed,0,False,False,False
+2947147,Not surveyed,Not surveyed,0,False,False,False
+2947153,Not surveyed,Not surveyed,0,False,False,False
+2947285,Not surveyed,Not surveyed,0,False,False,False
+2947363,Not surveyed,Not surveyed,0,False,False,False
+2947445,Not surveyed,Not surveyed,0,False,False,False
+2947545,Not surveyed,Not surveyed,0,False,False,False
+2947935,Not surveyed,Not surveyed,0,False,False,False
+2948315,Not surveyed,Not surveyed,0,False,False,False
+2948835,Together,Not surveyed,0,False,True,True
+2948847,Not surveyed,Not surveyed,0,False,False,False
+2948877,Together,Not surveyed,0,False,True,True
+2948891,Together,Together,0,False,True,True
+2948999,Broke up,Together,1,False,True,True
+2949309,Not surveyed,Not surveyed,0,False,False,False
+2949489,Not surveyed,Not surveyed,0,False,False,False
+2949549,Not surveyed,Not surveyed,0,False,False,False
+2949703,Not surveyed,Not surveyed,0,False,False,False
+2949707,Not surveyed,Not surveyed,0,False,False,False
+2949909,Not surveyed,Not surveyed,0,False,False,False
+2949987,Not surveyed,Not surveyed,0,False,False,False
+2950077,Not surveyed,Not surveyed,0,False,False,False
+2950149,Together,Together,0,False,True,True
+2950485,Not surveyed,Not surveyed,0,False,False,False
+2951351,Together,Not surveyed,0,False,True,True
+2951535,Together,Together,0,False,True,True
+2951689,Together,Together,0,False,True,True
+2952141,Not surveyed,Not surveyed,0,False,False,False
+2952345,Not surveyed,Not surveyed,0,False,False,False
+2952627,Broke up,Together,1,False,True,True
+2952687,Not surveyed,Not surveyed,0,False,False,False
+2952855,Not surveyed,Not surveyed,0,False,False,False
+2952917,Not surveyed,Not surveyed,0,False,False,False
+2952951,Not surveyed,Not surveyed,0,False,False,False
+2953253,Not surveyed,Not surveyed,0,False,False,False
+2954031,Not surveyed,Not surveyed,0,False,False,False
+2954053,Not surveyed,Not surveyed,0,False,False,False
+2954057,Not surveyed,Not surveyed,0,False,False,False
+2954265,Not surveyed,Not surveyed,0,False,False,False
+2954413,Not surveyed,Not surveyed,0,False,False,False
+2954769,Not surveyed,Not surveyed,0,False,False,False
+2954837,Not surveyed,Not surveyed,0,False,False,False
+2954865,Not surveyed,Not surveyed,0,False,False,False
+2954941,Not surveyed,Not surveyed,0,False,False,False
+2955053,Broke up,Not surveyed,1,False,True,True
+2955665,Not surveyed,Not surveyed,0,False,False,False
+2955897,Not surveyed,Not surveyed,0,False,False,False
+2955957,Not surveyed,Not surveyed,0,False,False,False
+2956121,Not surveyed,Not surveyed,0,False,False,False
+2956257,Not surveyed,Not surveyed,0,False,False,False
+2956611,Not surveyed,Not surveyed,0,False,False,False
+2956615,Not surveyed,Not surveyed,0,False,False,False
+2956647,Not surveyed,Not surveyed,0,False,False,False
+2957229,Not surveyed,Not surveyed,0,False,False,False
+2957861,Not surveyed,Not surveyed,0,False,False,False
+2958163,Together,Together,0,False,True,True
+2958337,Not surveyed,Together,0,False,True,True
+2958383,Not surveyed,Not surveyed,0,False,False,False
+2958479,Not surveyed,Not surveyed,0,False,False,False
+2958681,Not surveyed,Not surveyed,0,False,False,False
+2958719,Not surveyed,Not surveyed,0,False,False,False
+2959067,Not surveyed,Not surveyed,0,False,False,False
+2959093,Not surveyed,Not surveyed,0,False,False,False
+2959603,Not surveyed,Not surveyed,0,False,False,False
+2959699,Together,Together,0,False,True,True
+2959813,Not surveyed,Not surveyed,0,False,False,False
+2960001,Not surveyed,Not surveyed,0,False,False,False
+2960473,Together,Not surveyed,0,False,True,True
+2960855,Not surveyed,Not surveyed,0,False,False,False
+2961031,Not surveyed,Not surveyed,0,False,False,False
+2961081,Not surveyed,Not surveyed,0,False,False,False
+2961139,Not surveyed,Together,0,False,True,True
+2961175,Together,Together,0,False,True,True
+2961203,Together,Together,0,False,True,True
+2962297,Not surveyed,Not surveyed,0,False,False,False
+2962511,Not surveyed,Not surveyed,0,False,False,False
+2962601,Not surveyed,Not surveyed,0,False,False,False
+2962941,Not surveyed,Not surveyed,0,False,False,False
+2963249,Together,Not surveyed,0,False,True,True
+2963255,Not surveyed,Not surveyed,0,False,False,False
+2963591,Not surveyed,Not surveyed,0,False,False,False
+2963711,Not surveyed,Not surveyed,0,False,False,False
+2963787,Not surveyed,Not surveyed,0,False,False,False
+2963813,Not surveyed,Not surveyed,0,False,False,False
+2963941,Not surveyed,Not surveyed,0,False,False,False
+2964485,Not surveyed,Not surveyed,0,False,False,False
+2964571,Not surveyed,Not surveyed,0,False,False,False
+2964671,Not surveyed,Not surveyed,0,False,False,False
+2964867,Not surveyed,Not surveyed,0,False,False,False
+2964947,Not surveyed,Not surveyed,0,False,False,False
+2964953,Not surveyed,Not surveyed,0,False,False,False
+2964987,Together,Together,0,False,True,True
+2965177,Not surveyed,Not surveyed,0,False,False,False
+2965507,Not surveyed,Not surveyed,0,False,False,False
+2965615,Partner died,Together,0,True,True,False
+2965635,Not surveyed,Not surveyed,0,False,False,False
+2965803,Not surveyed,Not surveyed,0,False,False,False
+2966175,Not surveyed,Not surveyed,0,False,False,False
+2966763,Not surveyed,Not surveyed,0,False,False,False
+2966853,Not surveyed,Not surveyed,0,False,False,False
+2966931,Not surveyed,Not surveyed,0,False,False,False
+2967063,Not surveyed,Not surveyed,0,False,False,False
+2967429,Not surveyed,Not surveyed,0,False,False,False
+2967621,Not surveyed,Not surveyed,0,False,False,False
+2967919,Not surveyed,Not surveyed,0,False,False,False
+2967957,Not surveyed,Not surveyed,0,False,False,False
+2968357,Not surveyed,Not surveyed,0,False,False,False
+2968971,Not surveyed,Not surveyed,0,False,False,False
+2969933,Not surveyed,Not surveyed,0,False,False,False
+2972135,Not surveyed,Not surveyed,0,False,False,False

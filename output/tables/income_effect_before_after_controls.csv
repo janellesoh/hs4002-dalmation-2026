@@ -1,0 +1,43 @@
+income_ordinal,model,predicted
+1,Model 1: income only,0.36936576495188295
+1,Model 2: + race and controls,0.15788794938865774
+2,Model 1: income only,0.33804733232385437
+2,Model 2: + race and controls,0.15120370039956496
+3,Model 1: income only,0.30808708511430044
+3,Model 2: + race and controls,0.1447084806470235
+4,Model 1: income only,0.27966033136131246
+4,Model 2: + race and controls,0.138401852722555
+5,Model 1: income only,0.25289779128253004
+5,Model 2: + race and controls,0.13228321259063439
+6,Model 1: income only,0.22788611248863996
+6,Model 2: + race and controls,0.12635178515181963
+7,Model 1: income only,0.204670431297739
+7,Model 2: + race and controls,0.12060661879407233
+8,Model 1: income only,0.1832584833262667
+8,Model 2: + race and controls,0.11504657940209712
+9,Model 1: income only,0.16362573072868525
+9,Model 2: + race and controls,0.10967034429465623
+10,Model 1: income only,0.145721000921517
+10,Model 2: + race and controls,0.10447639654131884
+11,Model 1: income only,0.1294722032401454
+11,Model 2: + race and controls,0.0994630200750425
+12,Model 1: income only,0.11479178541481985
+12,Model 2: + race and controls,0.09462829596804985
+13,Model 1: income only,0.10158169330079915
+13,Model 2: + race and controls,0.08997010017879704
+14,Model 1: income only,0.08973769189251654
+14,Model 2: + race and controls,0.08548610301080746
+15,Model 1: income only,0.07915298534788327
+15,Model 2: + race and controls,0.08117377045318423
+16,Model 1: income only,0.06972113511238452
+16,Model 2: + race and controls,0.07703036750099526
+17,Model 1: income only,0.061338318199037616
+17,Model 2: + race and controls,0.07305296348441588
+18,Model 1: income only,0.053904994311100025
+18,Model 2: + race and controls,0.06923843937106372
+19,Model 1: income only,0.04732706389901204
+19,Model 2: + race and controls,0.0655834969483981
+20,Model 1: income only,0.04151660278283617
+20,Model 2: + race and controls,0.062084669743860926
+21,Model 1: income only,0.036392255756478586
+21,Model 2: + race and controls,0.05873833550051504

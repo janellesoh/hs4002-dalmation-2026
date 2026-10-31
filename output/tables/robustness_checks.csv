@@ -1,0 +1,10 @@
+model,term,coef,p_value
+Main (same-race),income_ordinal,-0.073,0.002
+Main (same-race),income_ordinal:black,-0.045,0.596
+Main (same-race),income_ordinal:hispanic,0.068,0.272
+All couples,income_ordinal,-0.072,0.0
+All couples,income_ordinal:black,-0.022,0.745
+All couples,income_ordinal:hispanic,0.032,0.486
+Weighted,income_ordinal,-0.06,0.086
+Weighted,income_ordinal:black,-0.013,0.897
+Weighted,income_ordinal:hispanic,0.041,0.592
