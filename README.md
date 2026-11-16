@@ -36,6 +36,7 @@ Run the notebooks in this order (each one saves files the next one needs):
 2. `code/02_relationship_stability.ipynb`: track each 2017 relationship to 2020 and 2022; breakups, partner deaths, attrition, panel set-up
 3. `code/03_race.ipynb`: respondent race, partner race, same-race flag
 4. `code/04_analysis.ipynb`: chi-square tests, logistic regression models, average marginal effects, robustness checks and charts
+5. `code/05_covid_context.ipynb`: descriptive COVID context for the drop in breakups after 2020
 
 ## Folders
 
