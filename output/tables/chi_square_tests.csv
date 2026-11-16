@@ -1,0 +1,6 @@
+comparison,couples,chi2,df,p_value,cramers_v,smallest_expected_count
+Race x breakup (all couples),1334,37.87,2,0.0,0.168,9.8
+Income x breakup (all couples),1334,21.27,1,0.0,0.129,52.8
+Income x breakup (White couples),1157,12.21,1,0.0005,0.106,34.3
+Income x breakup (Black couples),83,3.88,1,0.0488,0.243,11.6
+Income x breakup (Hispanic couples),94,0.0,1,0.9535,0.032,9.4

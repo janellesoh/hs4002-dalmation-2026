@@ -1,43 +1,43 @@
 income_ordinal,model,predicted
 1,Model 1: income only,0.36936576495188295
-1,Model 2: + race and controls,0.15788794938865774
+1,Model 2: + race and controls,0.15830403045949604
 2,Model 1: income only,0.33804733232385437
-2,Model 2: + race and controls,0.15120370039956496
+2,Model 2: + race and controls,0.15157506533855158
 3,Model 1: income only,0.30808708511430044
-3,Model 2: + race and controls,0.1447084806470235
+3,Model 2: + race and controls,0.1450370758044667
 4,Model 1: income only,0.27966033136131246
-4,Model 2: + race and controls,0.138401852722555
+4,Model 2: + race and controls,0.13868962431971602
 5,Model 1: income only,0.25289779128253004
-5,Model 2: + race and controls,0.13228321259063439
+5,Model 2: + race and controls,0.1325321035122696
 6,Model 1: income only,0.22788611248863996
-6,Model 2: + race and controls,0.12635178515181963
+6,Model 2: + race and controls,0.12656373172784546
 7,Model 1: income only,0.204670431297739
-7,Model 2: + race and controls,0.12060661879407233
+7,Model 2: + race and controls,0.12078354751419279
 8,Model 1: income only,0.1832584833262667
-8,Model 2: + race and controls,0.11504657940209712
+8,Model 2: + race and controls,0.11519040352274841
 9,Model 1: income only,0.16362573072868525
-9,Model 2: + race and controls,0.10967034429465623
+9,Model 2: + race and controls,0.10978296031419472
 10,Model 1: income only,0.145721000921517
-10,Model 2: + race and controls,0.10447639654131884
+10,Model 2: + race and controls,0.10455968053608439
 11,Model 1: income only,0.1294722032401454
-11,Model 2: + race and controls,0.0994630200750425
+11,Model 2: + race and controls,0.09951882390491565
 12,Model 1: income only,0.11479178541481985
-12,Model 2: + race and controls,0.09462829596804985
-13,Model 1: income only,0.10158169330079915
-13,Model 2: + race and controls,0.08997010017879704
+12,Model 2: + race and controls,0.0946584433746477
+13,Model 1: income only,0.10158169330079916
+13,Model 2: + race and controls,0.08997638281191725
 14,Model 1: income only,0.08973769189251654
-14,Model 2: + race and controls,0.08548610301080746
+14,Model 2: + race and controls,0.08547027642869569
 15,Model 1: income only,0.07915298534788327
-15,Model 2: + race and controls,0.08117377045318423
+15,Model 2: + race and controls,0.0811375501494062
 16,Model 1: income only,0.06972113511238452
-16,Model 2: + race and controls,0.07703036750099526
+16,Model 2: + race and controls,0.07697542501504229
 17,Model 1: income only,0.061338318199037616
-17,Model 2: + race and controls,0.07305296348441588
+17,Model 2: + race and controls,0.07298092265472582
 18,Model 1: income only,0.053904994311100025
-18,Model 2: + race and controls,0.06923843937106372
+18,Model 2: + race and controls,0.06915087278808771
 19,Model 1: income only,0.04732706389901204
-19,Model 2: + race and controls,0.0655834969483981
+19,Model 2: + race and controls,0.06548192266199121
 20,Model 1: income only,0.04151660278283617
-20,Model 2: + race and controls,0.062084669743860926
-21,Model 1: income only,0.036392255756478586
-21,Model 2: + race and controls,0.05873833550051504
+20,Model 2: + race and controls,0.06197054827399082
+21,Model 1: income only,0.036392255756478614
+21,Model 2: + race and controls,0.05861306719349197

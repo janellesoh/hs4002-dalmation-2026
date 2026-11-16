@@ -30,12 +30,12 @@ Libraries. https://data.stanford.edu/hcmst2017
 
 ## Run order
 
-Work in progress. Notebooks will run in this order:
+Run the notebooks in this order (each one saves files the next one needs):
 
-1. `code/01_clean.ipynb`: keep partnered respondents; income, education and earnings variables
+1. `code/01_ses.ipynb`: keep partnered respondents; income, education (1–4 scale) and earnings variables
 2. `code/02_relationship_stability.ipynb`: track each 2017 relationship to 2020 and 2022; breakups, partner deaths, attrition, panel set-up
 3. `code/03_race.ipynb`: respondent race, partner race, same-race flag
-4. `code/04_analysis.ipynb`: logistic regression models and charts
+4. `code/04_analysis.ipynb`: chi-square tests, logistic regression models, average marginal effects, robustness checks and charts
 
 ## Folders
 
