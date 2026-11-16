@@ -31,17 +31,18 @@ duration,Model 3,-0.073,0.93,0.0,-0.099,-0.046
 age,Model 3,0.004,1.004,0.623,-0.012,0.019
 same_sex,Model 3,0.352,1.422,0.218,-0.208,0.912
 children,Model 3,0.151,1.163,0.506,-0.294,0.596
-Intercept,Model 4,0.189,1.207,0.735,-0.901,1.279
-"C(earned_more, Treatment('About equal'))[T.Partner earned more]",Model 4,0.079,1.082,0.799,-0.532,0.69
-"C(earned_more, Treatment('About equal'))[T.Respondent earned more]",Model 4,0.03,1.03,0.924,-0.581,0.641
-C(period)[T.2017-2022],Model 4,0.503,1.653,0.206,-0.276,1.282
-C(period)[T.2020-2022],Model 4,-1.46,0.232,0.0,-1.996,-0.924
-income_ordinal,Model 4,-0.068,0.934,0.006,-0.117,-0.019
-educ_ordinal,Model 4,0.005,1.005,0.966,-0.235,0.245
-black,Model 4,1.165,3.206,0.0,0.585,1.745
-hispanic,Model 4,0.647,1.91,0.05,0.001,1.294
-married,Model 4,-1.355,0.258,0.0,-1.805,-0.906
-duration,Model 4,-0.072,0.931,0.0,-0.098,-0.046
-age,Model 4,0.003,1.003,0.662,-0.012,0.019
-same_sex,Model 4,0.276,1.317,0.332,-0.281,0.833
-children,Model 4,0.143,1.154,0.527,-0.3,0.586
+Intercept,Model 4,0.06,1.062,0.92,-1.109,1.229
+"C(earned_more, Treatment('About equal'))[T.Partner earned more]",Model 4,0.074,1.077,0.812,-0.539,0.688
+"C(earned_more, Treatment('About equal'))[T.Respondent earned more]",Model 4,0.067,1.069,0.838,-0.573,0.706
+C(period)[T.2017-2022],Model 4,0.493,1.637,0.218,-0.292,1.278
+C(period)[T.2020-2022],Model 4,-1.455,0.233,0.0,-1.991,-0.919
+income_ordinal,Model 4,-0.066,0.936,0.008,-0.116,-0.017
+educ_ordinal,Model 4,-0.001,0.999,0.992,-0.243,0.24
+female,Model 4,0.133,1.143,0.518,-0.271,0.537
+black,Model 4,1.171,3.226,0.0,0.59,1.752
+hispanic,Model 4,0.643,1.901,0.053,-0.009,1.294
+married,Model 4,-1.345,0.261,0.0,-1.796,-0.893
+duration,Model 4,-0.072,0.93,0.0,-0.098,-0.046
+age,Model 4,0.004,1.004,0.595,-0.011,0.02
+same_sex,Model 4,0.287,1.332,0.314,-0.271,0.845
+children,Model 4,0.151,1.163,0.505,-0.294,0.596
