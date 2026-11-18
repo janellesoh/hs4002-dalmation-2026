@@ -9,6 +9,8 @@ relationship stability vary across racial groups in the US?
 (Rosenfeld, Thomas & Hausen, 2023).
 
 ## Getting the data
+We use the HCMST 2017–2020–2022 combined dataset (public version 2.2, Stata format), downloaded from
+<https://data.stanford.edu/hcmst2017> on 30 October 2026.
 
 The file is already in this repository as
 `data/raw/HCMST_2017_to_2022_small_public_version_2.2.dta` (4MB). Stanford's data use agreement
