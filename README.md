@@ -8,9 +8,6 @@ relationship stability vary across racial groups in the US?
 **Dataset:** How Couples Meet and Stay Together 2017–2020–2022 combined dataset
 (Rosenfeld, Thomas & Hausen, 2023).
 
-> Our first analysis (Presentation #1) used the HCMST 2009 dataset by mistake. It is kept in
-> [`archive/hcmst2009/`](archive/hcmst2009/). 
-
 ## Getting the data
 
 The file is already in this repository as
