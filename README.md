@@ -8,14 +8,10 @@ relationship stability vary across racial groups in the US?
 **Dataset:** How Couples Meet and Stay Together 2017–2020–2022 combined dataset
 (Rosenfeld, Thomas & Hausen, 2023).
 
-> Our first analysis (Presentation #1) used HCMST 2009 by mistake. It is kept in
-> [`archive/hcmst2009/`](archive/hcmst2009/) and as the git tag `v1-hcmst2009`.
+> Our first analysis (Presentation #1) used the HCMST 2009 dataset by mistake. It is kept in
+> [`archive/hcmst2009/`](archive/hcmst2009/). 
 
 ## Getting the data
-
-We use the HCMST 2017–2020–2022 combined dataset, public version 2.2 (Stata format),
-downloaded from <https://data.stanford.edu/hcmst2017> as
-`HCMST 2017 to 2022 small public version 2.2.dta` on 30 October 2026.
 
 The file is already in this repository as
 `data/raw/HCMST_2017_to_2022_small_public_version_2.2.dta` (4MB). Stanford's data use agreement
@@ -48,3 +44,8 @@ Run the notebooks in this order (each one saves files the next one needs):
 - `slides/`: presentation slides (`presentation1.pdf` = Presentation #1, 7 Oct 2026; its results
   come from HCMST 2009, see `archive/hcmst2009/`)
 - `archive/hcmst2009/`: earlier analysis on HCMST 2009
+
+## Note on Presentation #1
+
+Our first analysis (Presentation #1) used the HCMST 2009 dataset by mistake. It is kept in
+[`archive/hcmst2009/`](archive/hcmst2009/).
